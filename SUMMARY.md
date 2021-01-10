@@ -38,6 +38,7 @@
 
 ## Architecture
 
+* [Smart Contract Audits](architecture/smart-contract-audits.md)
 * [Overview](architecture/overview.md)
 * [Mainnet Contracts](architecture/mainnet.md)
 * [Kovan Contracts](architecture/kovan.md)

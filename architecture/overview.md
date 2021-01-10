@@ -24,6 +24,8 @@ All deployed Solidity code are [_**public Github repos**_](https://github.com/Co
 
 ### Audit
 
+
+
 #### The Arcadia Group
 
 {% file src="../.gitbook/assets/arcadia-cover-blacksmith-audit.pdf" caption="Arcadia Blacksmith Audit Report" %}
