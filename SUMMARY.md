@@ -43,7 +43,6 @@
 * [Mainnet Contracts](architecture/mainnet.md)
 * [Kovan Contracts](architecture/kovan.md)
 * [API Docs](https://app.swaggerhub.com/apis-docs/CoverProtocol/coverprotocol/1.0.0#)
-* [Logos](architecture/logos.md)
 
 ## International
 
@@ -55,5 +54,6 @@
 * [Cover Protocol App](https://app.coverprotocol.com/)
 * [Governance Forum](https://forum.coverprotocol.com)
 * [Snapshot \(Voting\)](https://vote.coverprotocol.com/#/)
+* [Logos](website-links/logos.md)
 * [Contact](website-links/contact.md)
 
