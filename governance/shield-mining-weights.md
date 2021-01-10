@@ -4,7 +4,7 @@ description: >-
   on COVER tokens from now on.
 ---
 
-# Shield Mining Weights - Deprecated
+# Shield Mining - Deprecated
 
 You can vote on the $COVER shield mining rewards for every week.
 

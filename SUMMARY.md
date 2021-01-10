@@ -34,15 +34,15 @@
 ## Governance
 
 * [Proposals](governance/proposals.md)
-* [Shield Mining Weights - Deprecated](governance/shield-mining-weights.md)
+* [Shield Mining - Deprecated](governance/shield-mining-weights.md)
 
 ## Architecture
 
 * [Overview](architecture/overview.md)
+* [API Docs](https://app.swaggerhub.com/apis-docs/CoverProtocol/coverprotocol/1.0.0#)
 * [Smart Contract Audits](architecture/smart-contract-audits.md)
 * [Mainnet Contracts](architecture/mainnet.md)
 * [Kovan Contracts](architecture/kovan.md)
-* [API Docs](https://app.swaggerhub.com/apis-docs/CoverProtocol/coverprotocol/1.0.0#)
 
 ## International
 
