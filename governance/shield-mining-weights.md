@@ -1,8 +1,10 @@
 ---
-description: Governance through COVER Gauge Voting
+description: >-
+  Shield Mining on COVER tokens are deprecated. There will be no Shield Mining
+  on COVER tokens from now on.
 ---
 
-# Shield Mining Weights
+# Shield Mining Weights - Deprecated
 
 You can vote on the $COVER shield mining rewards for every week.
 

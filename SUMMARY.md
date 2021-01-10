@@ -27,7 +27,7 @@
 
 ## Governance
 
-* [Shield Mining Weights](governance/shield-mining-weights.md)
+* [Shield Mining Weights - Deprecated](governance/shield-mining-weights.md)
 * [Proposals](governance/proposals.md)
 
 ## Collaboration
