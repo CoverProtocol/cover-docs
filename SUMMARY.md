@@ -25,16 +25,16 @@
   * [Partial Payouts](user-guide/redemption/partial-payout-note.md)
 * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
 
-## Governance
-
-* [Proposals](governance/proposals.md)
-* [Shield Mining Weights - Deprecated](governance/shield-mining-weights.md)
-
 ## Collaboration
 
 * [Summary and Benefits](collaboration/summary-and-benefits.md)
 * [Adding a Protocol](collaboration/new.md)
 * [Sponsor a Reward Program](collaboration/bonus.md)
+
+## Governance
+
+* [Proposals](governance/proposals.md)
+* [Shield Mining Weights - Deprecated](governance/shield-mining-weights.md)
 
 ## Architecture
 
