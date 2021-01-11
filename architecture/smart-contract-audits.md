@@ -8,7 +8,7 @@ description: All deployed contracts are audited.
 
 This is the audit of the Cover V1 core contracts from MixBytes.
 
-{% file src="../.gitbook/assets/cover-peripheral-smart-contract-audit-mixbytes.pdf" caption="Cover Router Audit" %}
+{% file src="../.gitbook/assets/cover-protocol-peripheral-smart-contract-audit.pdf" caption="Cover Router V1 Audit" %}
 
 ## Cover Core V1
 
