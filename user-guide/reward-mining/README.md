@@ -2,7 +2,7 @@
 description: CovTokens and ETH-COVER pools
 ---
 
-# Shield Mining/Liquidity Mining
+# Rewards/Liquidity Mining
 
 Shield mining with CovTokens allows you to earn $COVER token, earn trading fees from balancer and help provide cheaper coverage to the market and users looking purchase coverage!
 

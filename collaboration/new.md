@@ -27,7 +27,7 @@ Once you ****have submitted the form, reach out to the team through contact@cove
 
 Once you passed screening, we will proceed to add your protocol.
 
-We charge a fee of **1 ETH** to cover deployment costs. Please send it to our dev multi-sig: **0x15957f0CA310d35b2E73fB5070Ce44A5B0141AB1**.
+We charge a fee of **2 ETH** to cover deployment costs. Please send it to our dev multi-sig: **0x15957f0CA310d35b2E73fB5070Ce44A5B0141AB1**.
 
 Once the fee is received, the Cover Team will handle contract deployments. We will mint the first coverage for you protocol, deploy the cover vault, two covTokens, and create Balancer Pools for each covToken.
 
