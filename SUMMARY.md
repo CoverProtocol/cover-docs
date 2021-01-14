@@ -5,7 +5,8 @@
 ## Product
 
 * [Product Paper](product/paper.md)
-* [Claims Guidelines](product/claims-guidelines.md)
+* [Claims Guidelines](product/claims-guidelines/README.md)
+  * [v2 Claims Guideliens](product/claims-guidelines/v2-claims-guideliens.md)
 * [Tokenomics](product/tokenomics.md)
 
 ## User Guide
