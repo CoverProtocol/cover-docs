@@ -1,7 +1,3 @@
----
-description: COMING SOON...
----
-
 # CovToken Reward Mining
 
 **COMING SOON...**
@@ -16,7 +12,7 @@ Go to the [r](https://app.coverprotocol.com/app/shieldmining)ewards tab.
 
 ###                   
 
-### Flowchart - Shield Mining \(Coverage Provider & Market Maker\)
+### Flowchart - Reward Mining \(Coverage Provider & Market Maker\)
 
 ![](../../.gitbook/assets/5.png)
 
