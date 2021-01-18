@@ -29,10 +29,8 @@ Below are the benefits of providing coverage from the perspective of a protocol:
 * Boost publicity & reputation of your project.
 * Earn premium\(s\) by selling CLAIM tokens.
 * Cheap coverage opportunities for your community to stay protected.
-* Earn $COVER for staking NOCLAIM LP BPT tokens via a community vote
 * Earn balancer fees by providing liquidity in the pool\(s\).
 * Redeem collateral back as long as there is no claim.
-* The $COVER token is accumulated by those providing liquidity, providing coverage and participating in $COVER shield mining. This means the protocol and its users can have a say in Cover Protocol’s governance and the future of coverage in DeFi.
 * Incentivize your own token as well!
 
 We believe Cover can boost the confidence of DeFi in both the protocols and its users. With protocols displaying confidence in themselves by providing coverage, resulting in users being able to protect themselves at a cost-effective rate, this creates a great connection between the protocols and their users. Protocols have strong incentives aligned with ensuring their platform is secure, while users are able to stay protected and safely use the protocol as needed.
