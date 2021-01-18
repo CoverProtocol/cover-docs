@@ -9,10 +9,9 @@
 
 Started on Jan 4th 2021
 
-1. SAFE: under the COVER tab — 1 SAFE = 0.9 COVER \(new\) **Only** SAFE held prior to Oct 1st 12:00AM UTC is eligible
-2. SAFE2: under the SAFE2 tab — 1 SAFE2 = 1 COVER \(new\)
-3. COVER: under the COVER tab — 1 COVER \(old\) = 1 COVER \(new\) Please refer to the compensation plan in the [Medium post](https://coverprotocol.medium.com/compensation-plan-b089d499191e) regarding the snapshot
-4. WETH: under WETH tab \(please claim within 90 days\). Parties that are eligible to claim ETH are the following.   Reference: [https://coverprotocol.medium.com/new-cover-token-launch-19f421cb507d](https://coverprotocol.medium.com/new-cover-token-launch-19f421cb507d)
+1. 1 SAFE = 0.9 COVER \(new\)       - **Only** SAFE held prior to Oct 1st 12:00AM UTC is eligible
+2. 1 SAFE2 = 1 COVER \(new\)
+3. 1 COVER \(old\) = 1 COVER \(new\)       - Please refer to the compensation plan in the [Medium post](https://coverprotocol.medium.com/compensation-plan-b089d499191e) regarding the snapshot  Reference: [https://coverprotocol.medium.com/new-cover-token-launch-19f421cb507d](https://coverprotocol.medium.com/new-cover-token-launch-19f421cb507d)
 
 ## SAFE2 to COVER Migration <a id="8e70"></a>
 
