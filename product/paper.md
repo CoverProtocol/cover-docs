@@ -59,7 +59,7 @@ Market makers hold both CLAIM and NOCLAIM tokens and provide liquidity for both 
 **Benefits**
 
 * Earns liquidity provider fees by providing liquidity for both CLAIM and/or NOCLAIM tokens
-* Participates in COVER shield mining by staking the above LP tokens with Cover protocol
+* Participates in reward mining \(where applicable\) by staking the above LP tokens with Cover protocol
 * Sells either side of the token at will
 * Redeems collateral using both CLAIM and NOCLAIM tokens
 
@@ -96,7 +96,7 @@ We encourage project teams themselves to become Coverage Providers to show confi
 * Protects the project’s users by providing affordable coverage
 * Earns a premium by selling CLAIM tokens
 * Earns liquidity provider fees by providing liquidity to the NOCLAIM tokens pool
-* Participates in COVER shield mining by staking the above LP token with Cover Protocol
+* Participates in  rewards mining\(where applicable\) by staking the above LP token with Cover Protocol
 * Sells NOCLAIM tokens at will to eliminate risk
 * Redeems collateral using NOCLAIM tokens when the cover expires and grace period is finished
 * Redeems collateral with both CLAIM and NOCLAIM tokens by buying the same amount of CLAIM tokens before the cover expires or before there is an accepted claim
