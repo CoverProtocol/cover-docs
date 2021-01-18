@@ -20,7 +20,7 @@
   * [Liquidity Provider on SushiSwap.fi](user-guide/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
 * [Rewards/Liquidity Mining](user-guide/shield-mining/README.md)
   * [CovToken Reward Mining](user-guide/shield-mining/covtoken-shield-mining-to-earn-usdcover.md)
-  * [Pool 2 Liquidity Mining To Earn $COVER](user-guide/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
+  * [COVER-ETH LP To Earn $SUSHI](user-guide/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
 * [Claims Management](user-guide/claims-management.md)
 * [Redemption](user-guide/redemption/README.md)
   * [Partial Payouts](user-guide/redemption/partial-payout-note.md)
