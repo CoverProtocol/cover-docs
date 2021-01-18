@@ -18,7 +18,7 @@
   * [CLAIM Liquidity Provider \(LP\)](user-guide/liquidity-providing/claim-liquidity-provider-lp.md)
   * [NOCLAIM Liquidity Provider \(LP\)](user-guide/liquidity-providing/noclaim-liquidity-provider-lp.md)
   * [Liquidity Provider on SushiSwap.fi](user-guide/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
-* [Shield Mining/Liquidity Mining](user-guide/shield-mining/README.md)
+* [Rewards/Liquidity Mining](user-guide/shield-mining/README.md)
   * [CovToken Shield Mining To Earn $COVER](user-guide/shield-mining/covtoken-shield-mining-to-earn-usdcover.md)
   * [Pool 2 Liquidity Mining To Earn $COVER](user-guide/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
 * [Claims Management](user-guide/claims-management.md)
