@@ -1,6 +1,6 @@
 # CovToken Reward Mining
 
-Go to the [shield mining](https://app.coverprotocol.com/app/shieldmining) tab.
+Go to the [rewards mining](https://app.coverprotocol.com/app/rewards) tab.
 
 1. Use the CLAIM BPT and/or the NOCLAIM BPT you received from the balancer for providing liquidity.
 2. Click the pool that your BPT relates to.
