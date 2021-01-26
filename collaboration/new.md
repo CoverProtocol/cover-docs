@@ -42,6 +42,8 @@ Once mint, add liquidity to the Balancer Pools for covTokens.
 
 Add the  ****[**"Protected by Cover Protocol"** stamp](https://docs.coverprotocol.com/website-links/logos) on your site and link it to [the app ](https://app.coverprotocol.com/app/marketplace)where users can buy coverage on your protocol.
 
+![](../.gitbook/assets/cover-stamp-1.jpg)
+
 ### Appendix
 
 #### Balancer Pools Specs
