@@ -6,7 +6,7 @@ description: >-
 
 # Sponsor a Reward Program
 
-You can sponsor any CLAIM/NOCLAIM trading pool with a bonus token. By sponsoring a reward program, you encourage market makers to provide liquidity for coverages of your protocol. Once the Blacksmith contract is set up to use the bonus tokens for your protocols shield mining program \(Blacksmith contract\), the bonus tokens will be distributed to LPs of the CLAIM/NOCLAIM trading pools linearly until expiration.
+You can sponsor any covToken DEX pool with a bonus token. By sponsoring a reward program, you encourage market makers to provide liquidity for coverages of your protocol. Once the Blacksmith contract is set up to use the bonus tokens for your protocols shield mining program \(Blacksmith contract\), the bonus tokens will be distributed to LPs of the trading pools linearly until expiration.
 
 ### First, contact the Cover Team to add the bonus token to the allow-list.
 
