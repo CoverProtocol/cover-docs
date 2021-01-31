@@ -29,7 +29,7 @@ Below are the benefits of providing coverage from the perspective of a protocol:
 * Boost publicity & reputation of your project.
 * Earn premium\(s\) by selling CLAIM tokens.
 * Cheap coverage opportunities for your community to stay protected.
-* Earn balancer fees by providing liquidity in the pool\(s\).
+* Earn DEX pool fees by providing liquidity in the pool\(s\).
 * Redeem collateral back as long as there is no claim.
 * Incentivize your own token as well!
 
