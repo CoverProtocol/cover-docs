@@ -22,15 +22,15 @@ The Claims guide describes which events are covered and not covered by Cover Pro
 During the **coverage period**, the designated smart contract or smart contract system, suffers a hack, bug, exploit, or **economic manipulation attack**; or the developers and or/signatories behind the smart contract or smart contract system commit fraud or theft of user ****funds.
 
 * and there is a **material loss of deposited funds** from the smart contract, or **smart contract system** with funds either moved to another address which the original owner or owners do not control or the funds are made permanently irrecoverable;
-* and the coverage purchaser submits a claim within 3 days of the incident.
+* and a claim within 3 days of the incident.
 
 ### Partial Payouts
 
 If a claim is accepted with a 100% payout ratio, then the NOCLAIM token will be worth $0 while the CLAIM will be redeemable for 1 collateral. 
 
-However, our protocol also allows for partial payouts. Partial payouts are utilized when a protocol is exploited for less than their total TVL and the loss is proportionally distributed amongst depositers. In that case, the payout ratio, x, would be less than 100%. CLAIM tokens will be redeemable for x collateral while NOCLAIM will be redeemable for \(1-x\) collateral.
+However, our protocol also allows for partial payouts. Partial payouts are utilized when a protocol's pool of funds is exploited for less than the pool's total TVL and the loss is proportionally distributed amongst depositers. In that case, the payout ratio, x, would be less than 100%. CLAIM tokens will be redeemable for x collateral while NOCLAIM will be redeemable for \(1-x\) collateral.
 
-For example: If _**MYPROTOCOL**_ gets exploited for $1 million while the total value locked is $5 million, a payout percentage of 20% would be reasonable. In that case, CLAIM is redeemable for 0.2 collateral and NOCLAIM is redeemable for 0.8 collateral
+For example: If _**MYPROTOCOL POOL**_ gets exploited for $1 million while the total value locked in the pool is $5 million, a payout percentage of 20% would be reasonable. In that case, CLAIM is redeemable for 0.2 collateral and NOCLAIM is redeemable for 0.8 collateral
 
 ### Exclusions
 
