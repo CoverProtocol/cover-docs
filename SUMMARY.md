@@ -9,7 +9,11 @@
   * [Claims Guidelines V2](product/claims-guidelines/v2.md)
 * [Tokenomics](product/tokenomics.md)
 
-## User Guide
+## User Guide - v 1.0.1
+
+* [Untitled](user-guide-v-1.0.1/untitled.md)
+
+## User Guide - v1 <a id="user-guide"></a>
 
 * [Market Maker Minting](user-guide/market-maker-minting.md)
 * [Coverage Provider Minting](user-guide/coverage-provider-minting.md)

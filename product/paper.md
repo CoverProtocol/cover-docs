@@ -12,7 +12,7 @@ Cover Protocol allows DeFi users to be protected against smart contract risk. It
 
 **The long term vision for Cover Protocol is to allow anyone to buy coverage on anything.**
 
-## **Fungible Cover Tokens**
+## **Fungible Cover Tokens \(covTokens\)**
 
 At the core of Cover Protocol are the fungible cover tokens. Fungible cover tokens are created when a user deposits collateral into a Cover smart contract. Each Cover contract specifies the protocol to be covered \(ie Curve\), the preferred collateral \(ie DAI\), the amount to deposit, and then the expiration date of coverage. 
 
@@ -48,82 +48,17 @@ There are three types of participants in the Cover Protocol market: Market Maker
 
 ### **Market Maker \(MM\)**
 
-Market makers hold both CLAIM and NOCLAIM tokens and provide liquidity in DEX pools.
-
-**How to become a MM**
-
-1. Deposit collateral 
-2. Receive both CLAIM and NOCLAIM tokens
-3. Provide liquidity for both CLAIM and NOCLAIM tokens
-
-**Benefits**
-
-* Earns liquidity provider fees by providing liquidity for both CLAIM and/or NOCLAIM tokens
-* Participates in reward mining \(if applicable\) by staking the above LP tokens with Cover protocol
-* Sells either side of the token at will
-* Redeems collateral using both CLAIM and NOCLAIM tokens
-
-**Risks**
-
-* **Impermanent loss from providing liquidity, although the loss is minimal in the default 80/20 CLAIM/Collateral and 98/2 NOCLAIM/Collateral pools.** 
-
-![](https://lh4.googleusercontent.com/dmeUmqCb_2lUuUG-2Lf7RwUKxv3Bv2DVpdmx2q-OusoOfOtTWSe-kxFEdtQOpMDl-o8T67inkyDW_ApteD-mAbUD62sBR8nvyc6gBoxtUHJ8t3Kl62ObNKNBKS5QJKiOv61-jPbE)
-
-![](https://lh6.googleusercontent.com/b7Wb0N2CRumH7968o9zj2q4cAKozkgErz-qiE1PBqmh4IHjghNLbwNeLb0eN8XXu1B0Ybhap0ymUX8AFvXivng_bmQw86VKs0UDvKIlVlbZ7yu-e3bhFi4503bJfULoZZeDSpi3D)
-
-![](https://lh4.googleusercontent.com/dmeUmqCb_2lUuUG-2Lf7RwUKxv3Bv2DVpdmx2q-OusoOfOtTWSe-kxFEdtQOpMDl-o8T67inkyDW_ApteD-mAbUD62sBR8nvyc6gBoxtUHJ8t3Kl62ObNKNBKS5QJKiOv61-jPbE)
-
-![](https://lh6.googleusercontent.com/b7Wb0N2CRumH7968o9zj2q4cAKozkgErz-qiE1PBqmh4IHjghNLbwNeLb0eN8XXu1B0Ybhap0ymUX8AFvXivng_bmQw86VKs0UDvKIlVlbZ7yu-e3bhFi4503bJfULoZZeDSpi3D)
-
-**The above charts show the scenario when there is a claim accepted on the protected product. Therefore, at the moment of a claim accepted, the CLAIM token goes to $1, the NOCLAIM token goes to $0.** 
+Market makers hold both CLAIM and NOCLAIM tokens. May provide liquidity for covTokens in DEX pools.
 
 ### **Coverage Provider \(CP\)**
 
-Coverage providers hold and provide liquidity for only NOCLAIM tokens.
+Coverage providers hold NOCLAIM tokens and sell CLAIM tokens. May provide liquidity for covTokens in DEX pools.
 
-We encourage project teams themselves to become Coverage Providers to show confidence in their projects and provide protection for their users at an affordable price.  
-****
-
-**How to become a CP**
-
-Hold NOCLAIM tokens.
-
-**Benefits**
-
-* Shows confidence in the protected project
-* Protects the project’s users by providing affordable coverage
-* Earns a premium by selling CLAIM tokens
-* Earns liquidity provider fees by providing liquidity to the NOCLAIM tokens pool
-* Participates in  rewards mining \(if applicable\) by staking the above LP token with Cover Protocol
-* Sells NOCLAIM tokens at will to eliminate risk
-* Redeems collateral using NOCLAIM tokens when the cover expires and grace period is finished
-* Redeems collateral with both CLAIM and NOCLAIM tokens by buying the same amount of CLAIM tokens before the cover expires or before there is an accepted claim
-
-**Risks**
-
-* Loses collateral when there is a claim accepted against the protected protocol \(in the event of user funds lost\)
-* Impermanent loss from providing liquidity, although the loss is minimal in the default 98/2 NOCLAIM/Collateral pools
+_We encourage project teams themselves to become Coverage Providers to show confidence in their projects and provide protection for their users at an affordable price._
 
 ### **Coverage Seeker \(CS\)**
 
-Coverage seekers hold and only CLAIM tokens. The goal is to cover the exposure to the protected product
-
-**How to become a CS**
-
-Hold CLAIM tokens
-
-**Benefits**
-
-* Be protected against the underlying project
-* Earns liquidity provider fees by providing liquidity for CLAIM tokens
-* Redeems collateral payout using CLAIM tokens when there is an accepted claim after the grace period finishes
-* Sells CLAIM tokens at will when coverage is no longer desired
-* Redeems collateral with both CLAIM and NOCLAIM tokens by buying the same amount of NOCLAIM tokens before the cover expires or before there is an accepted claim
-
-**Risks**
-
-* Lose the paid premium when there is no claim. Remember, that means funds are safe in the protected project
-* Impermanent loss from providing liquidity, although the loss is minimal in the default 80/20 CLAIM/Collateral pools
+Coverage seekers hold CLAIM tokens. The goal is to cover the exposure to the protected product.
 
 **Disclaimer: COVER Protocol will charge a fee \(0.1%\) from all actions where redeeming occurs.**
 
