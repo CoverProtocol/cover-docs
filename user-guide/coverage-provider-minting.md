@@ -5,7 +5,7 @@ description: >-
   protocol, or sponsored by protocol themselves.
 ---
 
-# Coverage Provider Minting
+# Coverage Provider
 
 ### What is a coverage provider?
 

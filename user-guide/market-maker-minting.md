@@ -4,7 +4,7 @@ description: >-
   to shield mine.
 ---
 
-# Market Maker Minting
+# Market Maker
 
 ### What is a market maker?
 

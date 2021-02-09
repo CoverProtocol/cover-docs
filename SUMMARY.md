@@ -15,9 +15,9 @@
 
 ## User Guide - v1 <a id="user-guide"></a>
 
-* [Market Maker Minting](user-guide/market-maker-minting.md)
-* [Coverage Provider Minting](user-guide/coverage-provider-minting.md)
-* [Coverage Seeker Process](user-guide/user-guide.md)
+* [Market Maker](user-guide/market-maker-minting.md)
+* [Coverage Provider](user-guide/coverage-provider-minting.md)
+* [Coverage Seeker](user-guide/user-guide.md)
 * [Liquidity Providing](user-guide/liquidity-providing/README.md)
   * [CLAIM Liquidity Provider \(LP\)](user-guide/liquidity-providing/claim-liquidity-provider-lp.md)
   * [NOCLAIM Liquidity Provider \(LP\)](user-guide/liquidity-providing/noclaim-liquidity-provider-lp.md)

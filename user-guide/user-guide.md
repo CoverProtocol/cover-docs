@@ -4,7 +4,7 @@ description: >-
   the Marketplace tab.
 ---
 
-# Coverage Seeker Process
+# Coverage Seeker
 
 ### What is a coverage seeker ?
 
