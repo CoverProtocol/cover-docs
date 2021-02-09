@@ -6,3 +6,5 @@ Cover is implementing a new user experience for our users. There are no fundamen
 * Coverage providers, hold NOCLAIM tokens only
 * Market Makers, hold both CLAIM and NOCLAIM tokens
 
+Once implementation completes, an announcement will be made.
+
