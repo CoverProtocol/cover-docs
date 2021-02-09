@@ -60,7 +60,7 @@ _We encourage project teams themselves to become Coverage Providers to show conf
 
 Coverage seekers hold CLAIM tokens. The goal is to cover the exposure to the protected product.
 
-**Disclaimer: COVER Protocol will charge a fee \(0.1%\) from all actions where redeeming occurs.**
+**Disclaimer: COVER Protocol will charge a fee \(0.1%, subject to governance change\) from all actions where redeeming occurs.**
 
 ## **Claims Management**
 
