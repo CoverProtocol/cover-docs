@@ -42,7 +42,7 @@ _COVER\_CURVE\_2020\_12\_31\_DAI\_0\_NOCLAIM_
 
 The dual fungible cover token model gives maximum flexibility in terms of risk management by fully taking advantage of existing DeFi infrastructure. 
 
-Once CLAIM and NOCLAIM tokens are minted, they can be placed into a DEX pool, offered for sale on bounce, or even used as collateral in various lending platforms \(very risky but technically feasible!\). In order to facilitate these markets, whenever a new cover has tokens minted by Cover Protocol for the first time, Cover Protocol will create a Balancer pool with 80% CLAIM tokens and 20% DAI and another pool with 98% NOCLAIM and 2% DAI. In addition, the COVER UI will offer a convenient interface for locating all of the relevant Balancer pools for each cover. If there is demand, the same process can be replicated for Uniswap, Sushi, etc.
+Once CLAIM and NOCLAIM tokens are minted, they can be placed into a DEX pool, offered for sale on bounce, or even used as collateral in various lending platforms \(very risky but technically feasible!\).
 
 There are three types of participants in the Cover Protocol market: Market Makers, Coverage Providers, and Coverage Seekers. 
 
