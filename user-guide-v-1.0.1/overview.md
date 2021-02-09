@@ -27,7 +27,7 @@ The process for buying CLAIM is as follows:
 3. Deposits the loaned DAI to mint CLAIM/NOCLAIM.
 4. Sells the NOCLAIM on market for DAI.
 5. Sends the CLAIM to the user.
-6. Charges the user remaining costs like the remainder and fees.
+6. Charges the user remaining costs and fees.
 7. Uses the cost for the user to payback the flash loan.
 
 The process for selling CLAIM is as follows:
