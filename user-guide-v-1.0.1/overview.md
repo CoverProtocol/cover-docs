@@ -12,8 +12,8 @@ Cover Protocol is implementing a new user experience for all participants of the
 
 Doing this greatly benefits our three groups of users:
 
-* Coverage Seekers \(holding CLAIM\): cheaper CLAIM, less slippage, more liquidity
-* Coverage Providers \(holding NOCLAIM\): less slippage, more liquidity, market making becomes more attractive
+* Coverage Seekers \(holding CLAIM\): cheaper CLAIM, less slippage, deeper liquidity
+* Coverage Providers \(holding NOCLAIM\): less slippage, deeper liquidity, market making becomes more attractive
 * Market Makers \(providing liquidity and holding CLAIM\): higher trading volume, reliable trading fee earnings, less impermanent loss.
 
 ### How Flash Swaps Work

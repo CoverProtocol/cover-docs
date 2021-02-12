@@ -6,7 +6,7 @@ description: >-
 
 # Market Making
 
-### Overview
+## Overview
 
 This page is for market making in the 50/50 NOCLAIM/DAI balancer pool. If you are interested in market making and providing liquidity, please make sure you mint CLAIM/NOCLAIM first on https://app.coverprotocol.com. After minting, you can use about an equal amount of DAI to join the balancer liquidity pool.
 
@@ -20,7 +20,7 @@ By being a market maker, you are benefiting from trading fees while providing ea
 
 If you are market making, and are concerned about the security of the product you are providing liquidity for, we recommend you purchase coverage to protect your pooled funds! By market making, keeping your CLAIM, and buying additional CLAIM as coverage for your funds, you get hedge all possible cases!   
 
-### Market Making: NOCLAIM Liquidity Providing 
+## Market Making: NOCLAIM Liquidity Providing 
 
 If you are interested in market making, please follow the below instructions:
 
