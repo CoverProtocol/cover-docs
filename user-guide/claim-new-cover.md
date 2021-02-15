@@ -2,7 +2,7 @@
 description: 'The steps will be the same for SAFE, SAFE2, & (old) COVER.'
 ---
 
-# Claim \(new\) Cover
+# Claim \(new\) COVER
 
 Please refer to this [medium article](https://coverprotocol.medium.com/compensation-plan-b089d499191e) to see if you are eligible for the \(new\) COVER governance token. 
 
@@ -22,7 +22,7 @@ If you still hold the original SAFE token it will be shown under the "COVER" tab
 
 ![](../.gitbook/assets/screen-shot-2021-02-15-at-12.14.45-am.png)
 
-**Step 3:** Confirm the Claim Cover transaction in metamask.
+**Step 3:** Confirm the Claim COVER transaction in metamask.
 
 ![](../.gitbook/assets/screen-shot-2021-02-15-at-12.15.57-am.png)
 
