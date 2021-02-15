@@ -63,3 +63,7 @@
 * [Logos](website-links/logos.md)
 * [Contact](website-links/contact.md)
 
+---
+
+* [Claim \(new\) Cover](claim-new-cover.md)
+
