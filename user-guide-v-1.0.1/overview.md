@@ -10,46 +10,50 @@ description: >-
 
 Cover Protocol is implementing a new user experience for all participants of the Cover ecosystem that streamlines the product immensely. Instead of using separate balancer pools for CLAIM \(80/20 CLAIM/DAI\) and NOCLAIM \(98/2 NOCLAIM/DAI\), we are now merging them into 1 50/50 \(NOCLAIM/DAI\) pool. 
 
-Doing this greatly benefits our three groups of users:
+**Note:** this change only relates to the balancer pools and will only affect newly launched protocols/expiries after today. The fundamental fungible tokens model of Cover V1 has NOT changed. This is not Cover V2.
 
-* Coverage Seekers \(holding CLAIM\): cheaper CLAIM, less slippage, deeper liquidity
-* Coverage Providers \(holding NOCLAIM\): less slippage, deeper liquidity, market making becomes more attractive
-* Market Makers \(providing liquidity and holding CLAIM\): higher trading volume, reliable trading fee earnings, less impermanent loss.
+### **Benefits of Flash Coverage Swaps**
+
+Using a single 50/50 NOCLAIM/DAI pool is a large improvement over our previous dual pool model, and we would like to detail the main benefits of this new model below:
+
+* **Cheaper coverage and less slippage!** With our new model, farmers buy NOCLAIM to farm for rewards and/or earn trading fees, which effectively decreases the price of CLAIM tokens \( 1 CLAIM = 1 - NOCLAIM token price\). In our previous liquidity model, incentivizing liquidity for the CLAIM/DAI pool was difficult because,
+  * Market Makers wanted to keep their CLAIM to hedge
+  * Farmers would purchase CLAIM to farm, which would distort the price of coverage. 
+* **More trading fees for NOCLAIM pool liquidity providers!** Due to our usage of flash liquidity, for every CLAIM $ amount traded, there is always a greater NOCLAIM $ amount worth of volume. This essentially means any CLAIM trading volume generates 5-20x as much trading volume in the NOCLAIM pool. Combined with minimal impermanent loss, market making becomes much more attractive!
+* **More platform revenue!** Through flash loans, $1 for every CLAIM purchased and sale will pass through the protocol, and experiencing the 0.1% fees charged by the protocol. This means that the protocol will earn increased fee revenue, directly benefiting from any CLAIM trading volume.
+* **Operation cost savings!** Balancer pools are notoriously expensive to deploy \(almost 1 ETH each\). With the new change, we will only have to deploy a single Balancer pool per coverage
+
+The catch is that because flash coverage swaps are more complex than a balancer trade, they will incur a higher transaction cost. We will be looking into ways to improve this for our users.  
+
 
 ### How Flash Swaps Work
 
 In order to maintain a smooth user experience for the new 50/50 NOCLAIM/DAI pools, we leverage flash loans for any trading participation on our platform.
 
-The process for buying CLAIM is as follows:
+We have built zaps to interact with the protocol that uses flash loans. This will make the user experience of purchasing and selling CLAIM, easier.
+
+The process of buying CLAIM is as follows:
 
 1. A user wishes to buy CLAIM, and executes our zap.
-2. The zap then flash loans DAI from dydx.
-3. Deposits the loaned DAI to mint CLAIM/NOCLAIM.
-4. Sells the NOCLAIM on market for DAI.
-5. Sends the CLAIM to the user.
-6. Charges the user remaining costs and fees.
-7. Uses the cost for the user to payback the flash loan.
+2. The zap then flash loans DAI from dydx \(with lowest fee ~2wei\).
+3. The loaned DAI is deposited into Cover Protocol to mint CLAIM/NOCLAIM.
+4. The newly minted NOCLAIM is then sold on market for DAI.
+5. The newly minted CLAIM is sent to the user.
+6. The user is charged remaining costs and fees in DAI.
+7. This received DAI is then used to pay back the flash loan.
 
-The process for selling CLAIM is as follows:
+The process of the zap for selling CLAIM is as follows:
 
 1. A user wishes to sell their CLAIM on market and uses our zap.
-2. The zap flash loans DAI from dydx.
-3. Market buys NOCLAIM with the DAI.
-4. Takes the users CLAIM.
-5. Redeems the CLAIM/NOCLAIM for DAI.
-6. Uses most of the DAI from redemption to pay back the flash loan.
-7. Sends what is remaining after trading fees and protocol fees back to the user.
+2. The zap flash loans DAI from dydx \(with lowest fee ~2wei\).
+3. The flash loaned DAI is used to market buy NOCLAIM from Balancer.
+4. The zap takes the users CLAIM.
+5. Now that the zap has both NOCLAIM and CLAIM, it redeems them for DAI.
+6. The zap uses most of the DAI from redemption to pay back the flash loan.
+7. With the flash loan paid, the remaining DAI after trading fees and protocol fees is sent back to the user.
 
- The process for buying/selling NOCLAIM is simply using the balancer pool as you normally would.
+The process for buying/selling NOCLAIM is simply using the balancer pool as you normally would.  
 
-### Benefits of Flash Swaps
-
-The benefits of using flash swaps are the following:
-
-* All liquidity is now unified and in 50/50 pools, this means less slippage and lower trading fees!
-* All trading volume passes through the protocol, generating protocol fees for every trade!
-* There is no more arbitrage between CLAIM and NOCLAIM, the coverage market is now more efficient.
-*  Providing liquidity is more attractive now since all the trading volume is in one pool, and market makers can keep all their trading fees if there is no incident!
 
 
 
