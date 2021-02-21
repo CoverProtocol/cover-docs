@@ -10,7 +10,7 @@ description: >-
 
 A coverage seeker is a participant who wants to have coverage. Being a coverage seeker you are protecting your deposited funds that can be subject to a loss in a protocol. 
 
-### How can I become a coverage seeker?
+### How to buy coverage?
 
 1. Click the protocol you want coverage on.
 2. Choose the CLAIM token for the status you prefer. There is always only one active CLAIM token for each expiration date. Click the BUY button on the specific expiration date, direction and nonce \(status\).

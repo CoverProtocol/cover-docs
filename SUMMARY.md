@@ -12,6 +12,7 @@
 ## User Guide - v 1.0.1
 
 * [Overview](user-guide-v-1.0.1/overview.md)
+* [Coverage Seeker](user-guide-v-1.0.1/coverage-seeker.md)
 * [Market Making](user-guide-v-1.0.1/market-making.md)
 
 ## User Guide - v1 <a id="user-guide"></a>
