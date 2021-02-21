@@ -15,6 +15,10 @@
 * [Coverage Seeker](user-guide-v-1.0.1/coverage-seeker.md)
 * [Coverage Provider](user-guide-v-1.0.1/coverage-provider.md)
 * [Market Making](user-guide-v-1.0.1/market-making.md)
+* [Claims Management](user-guide-v-1.0.1/claims-management.md)
+* [Claim \(new\) COVER](user-guide-v-1.0.1/claim-new-cover.md)
+* [Redemption](user-guide-v-1.0.1/redemption/README.md)
+  * [Partial Payouts](user-guide-v-1.0.1/redemption/partial-payout-note.md)
 
 ## User Guide - v1 <a id="user-guide"></a>
 
@@ -28,10 +32,6 @@
 * [Rewards/Liquidity Mining](user-guide/shield-mining/README.md)
   * [CovToken Reward Mining](user-guide/shield-mining/covtoken-shield-mining-to-earn-usdcover.md)
   * [COVER-ETH LP To Earn $SUSHI](user-guide/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
-* [Claims Management](user-guide/claims-management.md)
-* [Redemption](user-guide/redemption/README.md)
-  * [Partial Payouts](user-guide/redemption/partial-payout-note.md)
-* [Claim \(new\) COVER](user-guide/claim-new-cover.md)
 * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
 
 ## Collaboration
