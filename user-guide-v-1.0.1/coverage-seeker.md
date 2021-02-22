@@ -16,5 +16,5 @@ A coverage seeker is a participant who wants to have coverage. Being a coverage 
 
 ![](../.gitbook/assets/screen-shot-2021-02-21-at-11.16.17-pm.png)
 
-![](../.gitbook/assets/screen-shot-2021-02-21-at-11.17.10-pm.png)
+![](../.gitbook/assets/screen-shot-2021-02-21-at-11.17.47-pm.png)
 
