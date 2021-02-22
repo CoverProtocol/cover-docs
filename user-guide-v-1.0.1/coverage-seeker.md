@@ -12,11 +12,9 @@ A coverage seeker is a participant who wants to have coverage. Being a coverage 
 4. Go to the [dashboard](https://app.coverprotocol.com/app/dashboard) tab and under “My Cover” it will list all the cover tokens you own. Verify you received the correct coverage token by checking that it has the correct expiration date, nonce, direction and active status.
 5. For the CLAIM token to show up in your metamask wallet, add the specific CLAIM token address \(available on my cover page\) as a custom token.
 
-![](../.gitbook/assets/screen-shot-2020-12-02-at-10.55.50-pm.png)
+![](../.gitbook/assets/screen-shot-2021-02-21-at-11.15.17-pm.png)
 
+![](../.gitbook/assets/screen-shot-2021-02-21-at-11.16.17-pm.png)
 
-
-![](../.gitbook/assets/trade-button-for-coverage.png)
-
-![](../.gitbook/assets/coverage-buying-modal.png)
+![](../.gitbook/assets/screen-shot-2021-02-21-at-11.17.10-pm.png)
 
