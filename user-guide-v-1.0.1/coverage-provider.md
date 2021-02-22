@@ -31,7 +31,7 @@ As a coverage provider, you mint CLAIM/NOCLAIM and sell it on the market for a q
 
 ![](../.gitbook/assets/screen-shot-2021-02-21-at-10.48.23-pm%20%281%29.png)
 
-###                                     Flowchart - Coverage Provider \(CP\)
+###                        Flowchart - Coverage Provider \(CP\)
 
 ![](../.gitbook/assets/2.png)
 
