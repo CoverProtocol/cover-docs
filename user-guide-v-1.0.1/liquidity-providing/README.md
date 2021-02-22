@@ -1,5 +1,5 @@
 ---
-description: NOCLAIM token Liquidity Providing
+description: You can only provide liquidity to the NOCLAIM pool(s)
 ---
 
 # Liquidity Providing
