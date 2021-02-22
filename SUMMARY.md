@@ -21,6 +21,7 @@
   * [Liquidity Provider on SushiSwap.fi](user-guide-v-1.0.1/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
 * [Rewards/Liquidity Mining](user-guide-v-1.0.1/rewards-liquidity-mining/README.md)
   * [CovToken Reward Mining](user-guide-v-1.0.1/rewards-liquidity-mining/covtoken-reward-mining.md)
+  * [COVER-ETH LP To Earn $SUSHI](user-guide-v-1.0.1/rewards-liquidity-mining/cover-eth-lp-to-earn-usdsushi.md)
 * [Redemption](user-guide-v-1.0.1/redemption/README.md)
   * [Partial Payouts](user-guide-v-1.0.1/redemption/partial-payout-note.md)
 * [Claim \(new\) COVER](user-guide-v-1.0.1/claim-new-cover.md)
