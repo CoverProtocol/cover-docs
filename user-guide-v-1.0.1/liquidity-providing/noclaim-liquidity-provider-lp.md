@@ -13,9 +13,5 @@
 
 ![](../../.gitbook/assets/screen-shot-2021-02-21-at-11.35.00-pm.png)
 
-                   **Flowchart - NOCLAIM Liquidity Provider \(NOCLAIM LP\)**
-
-![](../../.gitbook/assets/4.png)
-
 
 
