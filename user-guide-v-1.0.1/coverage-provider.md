@@ -17,6 +17,10 @@ As a coverage provider, you mint CLAIM/NOCLAIM and sell it on the market for a q
 
 ### How to provide coverage?
 
+{% hint style="info" %}
+You only need to provide liquidity to the NOCLAIM pool. You sell your CLAIM token for up front profit. 
+{% endhint %}
+
 1. Deposit funds \(collateral\) by going to the [Mint tab](https://app.coverprotocol.com/app/mint) on the cover app.
 2. Click the drop down menu and choose the protocol you want to be a market maker on.
 3. Choose the expiration date.
