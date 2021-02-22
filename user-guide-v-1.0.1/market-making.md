@@ -24,6 +24,10 @@ If you are market making, and are concerned about the security of the product yo
 
 If you are interested in market making, please follow the below instructions:
 
+{% hint style="info" %}
+You only need to provide liquidity to the NOCLAIM pool. 
+{% endhint %}
+
 1. Mint both CLAIM & NOCLAIM tokens
 2. Go to "Dashboard".
 3. Click "My Covers" tab.
