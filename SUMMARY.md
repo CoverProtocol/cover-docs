@@ -17,6 +17,9 @@
 * [Market Making](user-guide-v-1.0.1/market-making.md)
 * [Claims Management](user-guide-v-1.0.1/claims-management.md)
 * [Claim \(new\) COVER](user-guide-v-1.0.1/claim-new-cover.md)
+* [Liquidity Providing](user-guide-v-1.0.1/liquidity-providing/README.md)
+  * [NOCLAIM Liquidity Provider \(LP\)](user-guide-v-1.0.1/liquidity-providing/noclaim-liquidity-provider-lp.md)
+  * [Liquidity Provider on SushiSwap.fi](user-guide-v-1.0.1/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
 * [Redemption](user-guide-v-1.0.1/redemption/README.md)
   * [Partial Payouts](user-guide-v-1.0.1/redemption/partial-payout-note.md)
 
