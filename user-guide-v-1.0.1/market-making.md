@@ -25,7 +25,7 @@ If you are market making, and are concerned about the security of the product yo
 If you are interested in market making, please follow the below instructions:
 
 {% hint style="info" %}
-You only need to provide liquidity to the NOCLAIM pool. 
+You only need to provide liquidity to the NOCLAIM pool. Hold the CLAIM token in your wallet.  
 {% endhint %}
 
 1. Mint both CLAIM & NOCLAIM tokens
