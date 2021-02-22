@@ -30,7 +30,7 @@ The catch is that because flash coverage swaps are more complex than a balancer 
 
 In order to maintain a smooth user experience for the new 50/50 NOCLAIM/DAI pools, we leverage flash loans for any trading participation on our platform.
 
-We have built zaps to interact with the protocol that uses flash loans. This will make the user experience of purchasing and selling CLAIM, easier.
+We have built zaps to interact with the protocol using flash loans. This will make the user experience of purchasing and selling CLAIM, easier.
 
 The process of buying CLAIM is as follows:
 
