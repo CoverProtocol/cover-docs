@@ -22,16 +22,14 @@ As a coverage provider, you mint CLAIM/NOCLAIM and sell it on the market for a q
 3. Choose the expiration date.
 4. Enter the amount of funds \(collateral\) you want to provide. There will be an “Approve” button. Click it. Let it confirm. A “Mint” button will show up. Enter the amount of coverage you wish to mint.
 5. Receive both CLAIM and NOCLAIM tokens. They will be available in the [dashboard](https://app.coverprotocol.com/app/dashboard) tab under “My Cover”. If you do not see them, refresh. Verify you received the correct coverage token by checking that it has the correct expiration date, nonce, direction and active status.
-6. Click the trade button in the [dashboard](https://app.coverprotocol.com/app/dashboard) tab under “My Cover”. This will redirect you to [Balancer Swap](https://balancer.exchange/#/swap). Verify you received the token that has the correct expiration date, nonce, direction and active status. **This is where you will sell the CLAIM token to DAI \(if liquidity allows it\). Enter the amount of CLAIM token you would like to sell. Click Swap.** 
+6. Click the trade button in the [dashboard](https://app.coverprotocol.com/app/dashboard) tab under “My Cover”. This will redirect you to [t](https://balancer.exchange/#/swap)he sell zap. Verify you received the token that has the correct expiration date, nonce, direction and active status. **This is where you will sell the CLAIM token to DAI \(if liquidity allows it\). Enter the amount of CLAIM token you would like to sell. Click Swap.** 
 7. For the CLAIM and NOCLAIM tokens to show up in your metamask wallet, add the specific addresses token address \(available on my cover page\) as a custom token.
 
-![](../.gitbook/assets/screen-shot-2020-12-02-at-10.47.59-pm.png)
+![](../.gitbook/assets/screen-shot-2021-02-21-at-10.53.28-pm.png)
 
-![](../.gitbook/assets/screen-shot-2020-12-02-at-10.51.00-pm.png)
+![](../.gitbook/assets/screen-shot-2021-02-21-at-10.53.59-pm.png)
 
-###  
-
-![](../.gitbook/assets/screen-shot-2020-12-02-at-10.54.41-pm.png)
+![](../.gitbook/assets/screen-shot-2021-02-21-at-10.48.23-pm%20%281%29.png)
 
 ###                                     Flowchart - Coverage Provider \(CP\)
 

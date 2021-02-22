@@ -24,12 +24,13 @@ If you are market making, and are concerned about the security of the product yo
 
 If you are interested in market making, please follow the below instructions:
 
-1. Buy NOCLAIM tokens
+1. Mint both CLAIM & NOCLAIM tokens
 2. Go to "Dashboard".
 3. Click "My Covers" tab.
 4. Click "Add Liquidity" for the NOCLAIM token you're interested in.
-5. Click max on one of the two options, it will automatically weight it properly at 50% NOCLAIM and 50% DAI.
-6. Unlock if necessary for steps 3 & 4.
-7. Press add liquidity.
-8. Receive your NOCLAIM Balancer Pool Token \(BPT\).
+5. Hold the CLAIM token in your wallet. 
+6. Click max on one of the two options, it will automatically weight it properly at 50% NOCLAIM and 50% DAI.
+7. Unlock if necessary for steps 3 & 4.
+8. Press add liquidity.
+9. Receive your NOCLAIM Balancer Pool Token \(BPT\).
 
