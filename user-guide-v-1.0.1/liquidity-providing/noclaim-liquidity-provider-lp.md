@@ -2,7 +2,7 @@
 
 1. Go to "Dashboard"
 2. Click "My Covers" tab
-3. Click "Add Liquidity"
+3. Click "Add Liquidity" for the NOCLAIM token\(s\) you hold
 4. Provide your NOCLAIM token and extra DAI as liquidity \(Balancer also supports single asset deposits\). Note this will be 50% CLAIM and 50% DAI.
 5. Press Add Liquidity again.
 6. Receive NOCLAIM Balancer Pool Token.
