@@ -20,7 +20,7 @@ Using a single 50/50 NOCLAIM/DAI pool is a large improvement over our previous d
   * Market Makers wanted to keep their CLAIM to hedge
   * Farmers would purchase CLAIM to farm, which would distort the price of coverage. 
 * **More trading fees for NOCLAIM pool liquidity providers!** Due to our usage of flash liquidity, for every CLAIM $ amount traded, there is always a greater NOCLAIM $ amount worth of volume. This essentially means any CLAIM trading volume generates 5-20x as much trading volume in the NOCLAIM pool. Combined with minimal impermanent loss, market making becomes much more attractive!
-* **More platform revenue!** Through flash loans, $1 for every CLAIM purchased and sale will pass through the protocol, and experiencing the 0.1% fees charged by the protocol. This means that the protocol will earn increased fee revenue, directly benefiting from any CLAIM trading volume.
+* **More platform revenue!** Through flash loans, for every CLAIM token purchased, $1 of value will pass through the protocol and trigger the 0.1% protocol fee. This means that the protocol will directly benefit from CLAIM trading volume in the form of increased fee revenue.
 * **Operation cost savings!** Balancer pools are notoriously expensive to deploy \(almost 1 ETH each\). With the new change, we will only have to deploy a single Balancer pool per coverage
 
 The catch is that because flash coverage swaps are more complex than a balancer trade, they will incur a higher transaction cost. We will be looking into ways to improve this for our users.  
