@@ -152,7 +152,7 @@ Yearn creates a public money market where:
 * Anyone can purchase coverages from the market
 
 1. Yearn \(or requests Cover to\) deploys the above Cover Money Market on top of the Cover Core V2.
-2. Anyone can deposit any amount of Dai as collaterals to the Cover Reserve of the market. Let’s assume there are $45mm Dai deposited for this market. The reserve will be able to mint $90mm worth of coverage. The reserve will hold the following tokens, $45mm each.
+2. Anyone can deposit any amount of Dai as collaterals to the Cover Reserve for the market. Let’s assume there are $45mm Dai deposited for this market. The reserve will be able to mint $90mm worth of coverage. The reserve will hold the following tokens, $45mm each.
 
    \*  C\_FUT0\_Yearn\_0\_DAI\_12\_31\_20
 
@@ -163,7 +163,7 @@ Yearn creates a public money market where:
    \*  NC\_Yearn\_0\_DAI\_12\_31\_20
 
 3. $45mm Yearn coverage will be available for sale on the Yearn Cover Money Market. As long as coverages are not 100% purchased, depositors can withdraw deposits and accumulated premiums at any time. 
-4. Yearn vaults \(like anyone\) can buy coverages from the money market directly by using a % of yields as premium payments. For example, yDai-vault and yCrv-vault will automatically transfer a % of yields to the Money Market for coverage. The vaults can be covered up to $45mm. If the vault has higher TVL \(than $45mm\), more Dai are required to be deposited into the reserve.
+4. Yearn vaults \(like any other Human user\) can buy coverages from the money market directly by using a % of yields as premium payments. For example, yDai-vault and yCrv-vault will automatically transfer a % of yields to the Money Market for coverage. The vaults can be covered up to $45mm. If the vault has higher TVL \(than $45mm\), more Dai are required to be deposited into the reserve.
 5. When expiry comes, the reserve will automatically convert the current coverage to the next expiry. No actions required from both depositors or coverage buyers.
 6. When an exploit happens \(Cover Core will record any valid exploits\), the reserve will freeze the current deposits based on the payout ratio. It will rollover the remaining collateral \(if not a 100% payout, or not 100% coverages sold\) to the next Cover Pool nonce and expiry where users can stream coverages again. 
 
