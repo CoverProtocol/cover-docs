@@ -23,7 +23,7 @@ With Cover V2 as the foundation, there will be 2 lines of products enabled.
 
 **Risk**: a Risk is an underlying \(the smallest unit\) that is covered on Cover Protocol. For example, the yDai vault of Yearn can be considered a Risk.
 
-**Cover Pool**: a Cover Pool consists of multiple **Risks**. For example, Yearn can have a Cover Pool, where each vault is a **Risk** in the Cover Pool. A Cover Pool may be expandable, meaning that new **Risks** may be added to the Cover Pool \(see later on how Cover Providers are hedged from incoming new Risks without any extra action\).
+**Cover Pool**: a Cover Pool consists of multiple **Risks**. For example, Yearn can have a Cover Pool, where each vault is a **Risk** in the Cover Pool. A Cover Pool may be expandable, meaning that new **Risks** may be added to the Cover Pool \(see later on how Cover Providers are hedged from incoming new Risks without any extra action\). Capital efficiency is achieved through pooling **Risks**.
 
 **Coverage**: a Coverage is a contract that represents the coverage for a Cover Pool with a specified collateral and expiry. For example, Yearn Dai 12\_31\_21 is a coverage for Yearn Cover Pool with Dai as collateral \(also payout currency\) that expires at 2021/12/31.
 
