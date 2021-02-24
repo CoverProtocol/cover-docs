@@ -2,8 +2,7 @@
 
 ## Overview
 
-Cover Protocol’s long term vision has and always will be to allow anyone to buy coverage on anything. Cover Protocol V2 \(Cover V2\) takes us one step further towards that vision.   
-
+Cover Protocol’s long term vision has and always will be to allow anyone to buy coverage on anything. Cover Protocol V2 \(Cover V2\) takes us one step further towards that vision. 
 
 Cover V2 improves upon multiple aspects of V1 in the following ways:
 
