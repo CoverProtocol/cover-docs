@@ -206,7 +206,7 @@ Yearn creates a private money market where:
 * Yearn vaults \(or a middle layer buying contract\) are the only whitelisted coverage buyers
 
 1. Yearn \(or requests Cover to\) deploys the above Cover Money Market on top of the Cover Core V2.
-2. Yearn treasury deposits 500 YFI \(from treasury\) into the Yearn Cover Reserve \(the reserve\) as collateral. Some of the Yearn vaults choose the money market as one of the yield strategies and deposit 500 YFI into the reserve. The reserve will be able to mint $80mm  \(YFI @ $40k\) worth of coverage \($40mm each for the two Risks\). The reserve will hold the following tokens, $40mm each
+2. Yearn treasury deposits 500 YFI \(from treasury\) into the Yearn Cover Reserve \(the reserve\) as collateral. Some of the Yearn vaults choose the money market as one of the yield strategies and deposit 500 YFI into the reserve. The reserve will be able to mint $90mm  \(YFI @ $45k\) worth of coverage \($45mm each for the two Risks\). The reserve will hold the following tokens, $45mm each
 
    \*  C\_FUT0\_Yearn\_0\_DAI\_12\_31\_20
 
