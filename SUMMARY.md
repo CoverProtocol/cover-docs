@@ -4,6 +4,7 @@
 
 ## Product
 
+* [Product Paper V2](product/paperv2.md)
 * [Product Paper](product/paper.md)
 * [Claims Guidelines](product/claims-guidelines/README.md)
   * [Claims Guidelines V2](product/claims-guidelines/v2.md)
