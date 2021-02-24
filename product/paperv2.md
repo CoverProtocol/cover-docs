@@ -176,10 +176,10 @@ Yearn creates a semi-private money market where:
 * Dai is used as the collateral
 * Dai is used as coverage premium payment currency
 * Anyone can deposit to become a coverage provider
-* Yearn vaults \(or a middle layer buying contract\) are the only whitelisted coverage buyers
+* Yearn vaults \(or a middle layer buying contract\) are the only whitelisted coverage buyer\(s0
 
 1. Yearn \(or requests Cover to\) deploys the above Cover Money Market on top of the Cover Core V2.
-2. Anyone can deposit any amount of Dai as collaterals to the Cover Reserve of the market. Let’s assume there are $45mm Dai deposited for this market. The reserve will be able to mint $90mm worth of coverage. The reserve will hold the following tokens, $45mm each.
+2. Anyone can deposit any amount of Dai as collaterals to the Cover Reserve of the market. Let’s assume there are **$45mm** Dai deposited for this market. The reserve will be able to mint **$90mm** worth of coverage. The reserve will hold the following tokens, $45mm each.
 
    \*  C\_FUT0\_Yearn\_0\_DAI\_12\_31\_20
 
@@ -192,7 +192,7 @@ Yearn creates a semi-private money market where:
 3. $45mm Yearn coverage will be available for sale on the Yearn Cover Money Market. As long as coverages are not 100% purchased, depositors can withdraw deposits and accumulated premiums at any time. 
 4. Yearn vaults can buy coverages from the money market directly by using a % of yields as premium payments. For example, yDai-vault and yCrv-vault will automatically transfer a % of yields to the Money Market for coverage. The vaults can be covered up to $45mm. If the vault has higher TVL \(than $45mm\), more Dai are required to be deposited into the reserve.
 5. When expiry comes, the reserve will automatically convert the current coverage to the next expiry. No actions required from both depositors or coverage buyers.
-6. When an exploit happens \(Cover Core will record any valid exploits\), the reserve will freeze the current deposits based on the payout ratio. It will rollover the remaining collateral \(if not a 100% payout, or not 100% coverages sold\) to the next Cover Pool nonce and expiry where users can stream coverages again. 
+6. When an exploit happens \(Cover Core V2 will record any valid exploits\), the reserve will freeze the current deposit and withdraw till the claim is decided. It will payout what is decided to the money market \(where buyers can claim\) and/or rollover the remaining collateral \(if not a 100% payout, or not 100% coverages sold\) to the next Cover Pool nonce and expiry where users can stream coverages again. 
 
 ### Example - Private Cover Money Market
 
@@ -206,7 +206,7 @@ Yearn creates a private money market where:
 * Yearn vaults \(or a middle layer buying contract\) are the only whitelisted coverage buyers
 
 1. Yearn \(or requests Cover to\) deploys the above Cover Money Market on top of the Cover Core V2.
-2. Yearn treasury deposits 500 YFI \(from treasury\) into the Yearn Cover Reserve \(the reserve\) as collateral. Some of the Yearn vaults choose the money market as one of the yield strategies and deposit 500 YFI into the reserve. The reserve will be able to mint $90mm  \(YFI @ $45k\) worth of coverage \($45mm each for the two Risks\). The reserve will hold the following tokens, $45mm each
+2. Yearn treasury deposits 500 YFI \(from treasury\) into the Yearn Cover Reserve \(the reserve\) as collateral. Some of the Yearn vaults choose the money market as one of the yield strategies and deposit 500 YFI into the reserve. There are a total of **1000 YFI** in the reserve. The reserve will be able to mint **$90mm**  \(YFI @ $45k\) worth of coverage \($45mm each for the two Risks\). The reserve will hold the following tokens, $45mm each
 
    \*  C\_FUT0\_Yearn\_0\_DAI\_12\_31\_20
 
@@ -219,5 +219,5 @@ Yearn creates a private money market where:
 3. $45mm Yearn coverage will be available for sale on the Yearn Cover Money Market. As long as coverages are not 100% purchased, the Yearn treasury can withdraw deposits and accumulated premiums at any time. 
 4. Yearn creates a buying contract that buys coverages from the money market for its vaults. For example, yDai-vault and yCrv-vault will automatically transfer a % of yields to the buying contract. The buying contract then converts them into YFI, and uses it as premium in the Money Market for coverages. The vaults can be covered up to $45mm. If the vault has higher TVL \(than $45mm\), more YFI are required to be deposited into the reserve. 
 5. When expiry comes, the reserve will automatically convert the current coverage to the next expiry. No actions required from both depositors or coverage buyers.
-6. When an exploit happens \(Cover Core will record any valid exploits\), the reserve will freeze the current deposits based on the payout ratio. It will rollover the remaining collateral \(if not a 100% payout, or not 100% coverages sold\) to the next Cover Pool nonce and expiry where users can stream coverages again. 
+6. When an exploit happens \(Cover Core V2 will record any valid exploits\), the reserve will freeze the current deposit and withdraw till the claim is decided. It will payout what is decided to the money market \(where buyers can claim\) and/or rollover the remaining collateral \(if not a 100% payout, or not 100% coverages sold\) to the next Cover Pool nonce and expiry where users can stream coverages again. 
 
