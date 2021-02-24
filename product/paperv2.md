@@ -126,7 +126,7 @@ They can then collect premiums as those coverages are purchased by coverage seek
 
 ### The Money Market
 
-The cover money market provides options for coverage seekers to stream coverages without worrying about expiries or paying upfront for a certain period.
+The cover money market provides options for coverage seekers to stream coverages without worrying about expiries or paying upfront for the whole time period.
 
 The purchase rate in the market can follow a bonding curve or simply just a flat fee. The creator of the money market will be able to decide.
 
