@@ -114,7 +114,7 @@ The Cover Money Market makes it possible for any project to create its own cover
 
 In the coverage money market, there will be no Market Makers, only Coverage Providers deposit to **Cover Reserve** and Coverage Seekers purchase from **The Money Market**.
 
-### The Money Market
+### Cover Reserve
 
 **Cover Reserve** is the custody contract that stores all the coverages in a Cover Money Market. It manages the rollover of the coverages and claims of the Cover Pool. It abstracts the details of the coverages out from the end users. It is considered a user of Cover Core V2.
 
