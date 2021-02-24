@@ -152,7 +152,7 @@ Yearn creates a public money market where:
 * Anyone can purchase coverages from the market
 
 1. Yearn \(or requests Cover to\) deploys the above Cover Money Market on top of the Cover Core V2.
-2. Anyone can deposit any amount of Dai as collaterals to the Cover Reserve of the market. Let’s assume there are $45mm Dai deposited for this market. The reserve will be able to mint $45mm worth of coverage. The reserve will hold the following tokens, $45mm each.
+2. Anyone can deposit any amount of Dai as collaterals to the Cover Reserve of the market. Let’s assume there are $45mm Dai deposited for this market. The reserve will be able to mint $90mm worth of coverage. The reserve will hold the following tokens, $45mm each.
 
    \*  C\_FUT0\_Yearn\_0\_DAI\_12\_31\_20
 
