@@ -130,7 +130,7 @@ The cover money market provides options for coverage seekers to stream coverages
 
 The purchase rate in the market can follow a bonding curve or simply just a flat fee. The creator of the money market will be able to decide.
 
-Note: **contracts can be created to interact with the money market on behalf of end users. Then middle layer contracts will provide flexibility to their creators and providers on its policies and rules.**
+Note: contracts can be created to interact with the money market on behalf of end users. Then **middle layer contracts** will provide flexibility to their creators and providers on **its policies and rules.**
 
 #### Coverage Seekers
 
