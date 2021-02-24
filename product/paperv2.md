@@ -138,7 +138,7 @@ Coverage Seekers will deposit a certain amount of payout to streamline purchase 
 
 ### Claim Management
 
-Claims are managed through Cover Core V2. The money market will simply follow the process. When a claim is accepted, Cover Core V2 will payout to the reserve, who then payout to its recorded users. If the users are contracts, then payout will be allocated to the contracts, who can then distribute the payout to its end users following its own rules.
+Claims are managed through Cover Core V2. The money market will simply follow the process. When a claim is accepted, Cover Core V2 will payout to the reserve, who then payout to its recorded users. If the users are contracts, then payout will be allocated to the contracts, who can then distribute the payout to its end users following its own rules. The guidelines can be found [here](https://app.gitbook.com/@cover-protocol/s/docs/~/drafts/-MUGnG9w5zDA6qOHbeJp/product/claims-guidelines-v2).
 
 ### Example - Public Cover Money Market
 
