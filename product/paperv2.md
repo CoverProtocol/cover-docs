@@ -10,8 +10,7 @@ Cover V2 improves upon multiple aspects of V1 in the following ways:
 * Open the doors for projects to provide coverage of their products at point of interaction by their end users and create their own coverage markets.
 * Expansion into real world risky asset coverage \(phase 1: natural disaster coverage\).
 
-The fundamental model of Cover remains unchanged. It still offers coverage\(s\) with fungible tokens while letting the market set coverage prices.  
-
+The fundamental model of Cover remains unchanged. It still offers coverage\(s\) with fungible tokens while letting the market set coverage prices.
 
 With Cover V2 as the foundation, there will be 2 lines of products enabled.
 
@@ -42,8 +41,7 @@ With Cover V2 as the foundation, there will be 2 lines of products enabled.
 
 ## Core V2 Model
 
-Cover Core V2 \(Core V2\) is the foundation of Cover Protocol. Core V2 consists of a collection of Cover Pools. There will be new Cover Pools listed as we go after launch.  
-
+Cover Core V2 \(Core V2\) is the foundation of Cover Protocol. Core V2 consists of a collection of Cover Pools. There will be new Cover Pools listed as we go after launch.
 
 Each Cover Pool can issue unlimited types of Coverage that vary by collaterals and expiries.
 
@@ -67,8 +65,7 @@ In this example, 4 covTokens will be created. One ncToken, one future cToken, an
 
 \*  C\_yCRV\_Yearn\_0\_DAI\_12\_31\_20
 
-\*  NC\_Yearn\_0\_DAI\_12\_31\_20  
-
+\*  NC\_Yearn\_0\_DAI\_12\_31\_20
 
 ### Market Maker
 
@@ -94,8 +91,7 @@ As a coverage seeker, you will hold one or more cTokens for Risks in a Cover Poo
 
 Use the above example, you will hold one or both 
 
-C\_3Crv\_Yearn\_0\_DAI\_12\_31\_20 and C\_yCRV\_Yearn\_0\_DAI\_12\_31\_20  
-
+C\_3Crv\_Yearn\_0\_DAI\_12\_31\_20 and C\_yCRV\_Yearn\_0\_DAI\_12\_31\_20
 
 ### Cover Order Books
 
