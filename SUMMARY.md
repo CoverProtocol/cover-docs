@@ -7,7 +7,8 @@
 * [Product Paper V2](product/paperv2.md)
 * [Claims Guidelines V2](product/claims-guidelines-v2.md)
 * [Product Paper](product/paper.md)
-* [Claims Guidelines](product/claims-guidelines.md)
+* [Claims Guidelines](product/claims-guidelines/README.md)
+  * [CDS Claims Guidelines](product/claims-guidelines/cds-claims-guidelines.md)
 * [Tokenomics](product/tokenomics.md)
 
 ## User Guide - v 1.0.1
