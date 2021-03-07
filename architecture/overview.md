@@ -4,6 +4,12 @@ Cover Core, COVER token, Cover shield mining, Cover backend, and Cover UI and mo
 
 All deployed Solidity code are [_**public Github repos**_](https://github.com/CoverProtocol)_**.**_ 
 
+## Cover Core V2
+
+### Design
+
+![](../.gitbook/assets/screen-shot-2021-03-07-at-1.58.52-pm.png)
+
 ## Cover Core V1
 
 ### Design
