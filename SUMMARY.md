@@ -11,6 +11,12 @@
   * [CDS Claims Guidelines](product/claims-guidelines/cds-claims-guidelines.md)
 * [Tokenomics](product/tokenomics.md)
 
+## Collaboration
+
+* [Summary and Benefits](collaboration/summary-and-benefits.md)
+* [Adding a Protocol](collaboration/new.md)
+* [Sponsor a Reward Program](collaboration/bonus.md)
+
 ## User Guide - v 1.0.1
 
 * [Overview](user-guide-v-1.0.1/overview.md)
@@ -42,17 +48,6 @@
   * [COVER-ETH LP To Earn $SUSHI](user-guide/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
 * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
 
-## Collaboration
-
-* [Summary and Benefits](collaboration/summary-and-benefits.md)
-* [Adding a Protocol](collaboration/new.md)
-* [Sponsor a Reward Program](collaboration/bonus.md)
-
-## Governance
-
-* [Proposals](governance/proposals.md)
-* [Shield Mining - Deprecated](governance/shield-mining-weights.md)
-
 ## Architecture
 
 * [Overview](architecture/overview.md)
@@ -60,6 +55,11 @@
 * [Smart Contract Audits](architecture/smart-contract-audits.md)
 * [Mainnet Contracts](architecture/mainnet.md)
 * [Kovan Contracts](architecture/kovan.md)
+
+## Governance
+
+* [Proposals](governance/proposals.md)
+* [Shield Mining - Deprecated](governance/shield-mining-weights.md)
 
 ## International
 
