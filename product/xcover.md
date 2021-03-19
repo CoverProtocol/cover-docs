@@ -8,7 +8,7 @@ There is **no fees** charged for xCOVER except the gas you pay.
 
 With xCOVER, you will be able to
 
-* vote on Cover Protocol proposals on snapshot with xCOVER.
+* vote on Cover Protocol proposals on snapshot. With the [_xcover strategy_](https://github.com/snapshot-labs/snapshot.js/pull/137/files) __merged, you will be able to vote on [_Cover Snapshot Space proposals_](https://vote.coverprotocol.com/) with xCOVER.
 * share platform revenue. Currently 30% of the platform fees are used to buy back COVER and distribute those COVER to xCOVER holders.
 * borrow against xCOVER on various lending platforms including [_Ruler Protocol_](https://app.rulerprotocol.com/app/markets) soon.
 
