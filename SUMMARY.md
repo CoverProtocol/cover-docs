@@ -10,6 +10,7 @@
 * [Claims Guidelines](product/claims-guidelines/README.md)
   * [CDS Claims Guidelines](product/claims-guidelines/cds-claims-guidelines.md)
 * [Tokenomics](product/tokenomics.md)
+* [xCOVER](product/xcover.md)
 
 ## Collaboration
 
@@ -32,7 +33,6 @@
 * [Claims Management](user-guide-v-1.0.1/claims-management.md)
 * [Redemption](user-guide-v-1.0.1/redemption/README.md)
   * [Partial Payouts](user-guide-v-1.0.1/redemption/partial-payout-note.md)
-* [xCOVER](user-guide-v-1.0.1/xcover.md)
 * [Claim \(new\) COVER](user-guide-v-1.0.1/claim-new-cover.md)
 
 ## User Guide - v1 <a id="user-guide"></a>
