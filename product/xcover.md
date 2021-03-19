@@ -14,7 +14,7 @@ With xCOVER, you will be able to
 
 ### When does the buy back happen?
 
-There is no set schedule in terms of when does the buy back happen. However, the team will execute the buy back as least **once a week** unless newly generated fees is less than $1000. **More buy backs** will be executed as necessary around coverage expiry as more fees will be generated.
+There is no set schedule in terms of when does the buy back happen. However, the team will execute the buy back as least **once a week** unless newly generated fees is less than $1000 during the week. **More buy backs** will be executed as necessary \(like around coverage expiry\) if significant more fees are generated.
 
 ### How to stake/unstake COVER for xCOVER?
 
