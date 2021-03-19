@@ -2,8 +2,11 @@
 
 With the [_passed proposal_](https://vote.coverprotocol.com/#/cover-protocol.eth/proposal/QmXw7bjEUJHaQyQwSnLknWhhFC7XfpwckMh4cVTLB4QAgP) by the community, COVER holders can now stake their COVER to receive xCOVER.
 
+### What is the benefit?
+
 With xCOVER, you will be able to
 
+* vote on Cover Protocol proposals on snapshot with xCOVER.
 * share platform revenue. Currently 30% of the platform fees are used to buy back COVER and redistribute those COVER to xCOVER holders.
 * borrow against xCOVER on various lending platforms including [_Ruler Protocol_](https://app.rulerprotocol.com/app/markets) soon.
 
