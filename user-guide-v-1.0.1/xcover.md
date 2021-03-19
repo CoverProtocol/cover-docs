@@ -7,7 +7,7 @@ With the [_passed proposal_](https://vote.coverprotocol.com/#/cover-protocol.eth
 With xCOVER, you will be able to
 
 * vote on Cover Protocol proposals on snapshot with xCOVER.
-* share platform revenue. Currently 30% of the platform fees are used to buy back COVER and redistribute those COVER to xCOVER holders.
+* share platform revenue. Currently 30% of the platform fees are used to buy back COVER and distribute those COVER to xCOVER holders.
 * borrow against xCOVER on various lending platforms including [_Ruler Protocol_](https://app.rulerprotocol.com/app/markets) soon.
 
 ### When does the buy back happen?
