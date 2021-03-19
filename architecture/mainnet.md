@@ -1,5 +1,9 @@
 # Mainnet Contracts
 
+## XCOVER 
+
+CoverForge: 0xa921392015eB37c5977c4Fd77E14DD568c59D5F8 CoverFeeReceiver: 0xe0632311772d362F49b5118c40d5251C44bC8b2E
+
 ## Cover Core V1
 
 * Protocol Factory: [0xedfC81Bf63527337cD2193925f9C0cF2D537AccA](https://etherscan.io/address/0xedfC81Bf63527337cD2193925f9C0cF2D537AccA#code)
