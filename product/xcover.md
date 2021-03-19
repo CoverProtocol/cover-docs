@@ -1,6 +1,6 @@
 # xCOVER
 
-With the [_passed proposal_](https://vote.coverprotocol.com/#/cover-protocol.eth/proposal/QmXw7bjEUJHaQyQwSnLknWhhFC7XfpwckMh4cVTLB4QAgP) by the community, COVER holders can now stake their COVER to receive xCOVER.
+With this [_passed proposal_](https://vote.coverprotocol.com/#/cover-protocol.eth/proposal/QmXw7bjEUJHaQyQwSnLknWhhFC7XfpwckMh4cVTLB4QAgP) by the community, COVER holders can now stake their COVER to receive xCOVER.
 
 ### What is the benefit?
 
