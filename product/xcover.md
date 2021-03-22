@@ -20,6 +20,8 @@ There is no set schedule in terms of when does the buy back happen. However, the
 
 1. Head to [https://app.coverprotocol.com/app/forge](https://app.coverprotocol.com/app/forge)
 2. Stake or unstake as many COVER as you preferred.
+3. Staking COVER, you receive a portion of the platform fees via buybacks of COVER
+4. Un-staking will withdraw your initial COVER staked + any rewards/fees back to your wallet
 
 
 
