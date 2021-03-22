@@ -2,7 +2,7 @@
 
 With this [_passed proposal_](https://vote.coverprotocol.com/#/cover-protocol.eth/proposal/QmXw7bjEUJHaQyQwSnLknWhhFC7XfpwckMh4cVTLB4QAgP) by the community, COVER holders can now stake their COVER to receive xCOVER.
 
-There is **no fees** charged for xCOVER except the gas you pay.
+There are **no fees** charged for xCOVER except the gas you pay.
 
 ### What is the benefit?
 
