@@ -34,20 +34,19 @@
 * [Redemption](user-guide-v-1.0.1/redemption/README.md)
   * [Partial Payouts](user-guide-v-1.0.1/redemption/partial-payout-note.md)
 * [Claim \(new\) COVER](user-guide-v-1.0.1/claim-new-cover.md)
-
-## User Guide - v1 <a id="user-guide"></a>
-
-* [Market Maker](user-guide/market-maker-minting.md)
-* [Coverage Provider](user-guide/coverage-provider-minting.md)
-* [Coverage Seeker](user-guide/user-guide.md)
-* [Liquidity Providing](user-guide/liquidity-providing/README.md)
-  * [CLAIM Liquidity Provider \(LP\)](user-guide/liquidity-providing/claim-liquidity-provider-lp.md)
-  * [NOCLAIM Liquidity Provider \(LP\)](user-guide/liquidity-providing/noclaim-liquidity-provider-lp.md)
-  * [Liquidity Provider on SushiSwap.fi](user-guide/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
-* [Rewards/Liquidity Mining](user-guide/shield-mining/README.md)
-  * [CovToken Reward Mining](user-guide/shield-mining/covtoken-shield-mining-to-earn-usdcover.md)
-  * [COVER-ETH LP To Earn $SUSHI](user-guide/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
 * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
+* [User Guide - Beta](user-guide-v-1.0.1/user-guide-beta.md)
+* [User Guide - V1](user-guide-v-1.0.1/user-guide-v1/README.md)
+  * [Rewards/Liquidity Mining](user-guide-v-1.0.1/user-guide-v1/shield-mining/README.md)
+    * [CovToken Reward Mining](user-guide-v-1.0.1/user-guide-v1/shield-mining/covtoken-shield-mining-to-earn-usdcover.md)
+    * [COVER-ETH LP To Earn $SUSHI](user-guide-v-1.0.1/user-guide-v1/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
+  * [Liquidity Providing](user-guide-v-1.0.1/user-guide-v1/liquidity-providing/README.md)
+    * [CLAIM Liquidity Provider \(LP\)](user-guide-v-1.0.1/user-guide-v1/liquidity-providing/claim-liquidity-provider-lp.md)
+    * [NOCLAIM Liquidity Provider \(LP\)](user-guide-v-1.0.1/user-guide-v1/liquidity-providing/noclaim-liquidity-provider-lp.md)
+    * [Liquidity Provider on SushiSwap.fi](user-guide-v-1.0.1/user-guide-v1/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
+  * [Market Maker](user-guide-v-1.0.1/user-guide-v1/market-maker-minting.md)
+  * [Coverage Provider](user-guide-v-1.0.1/user-guide-v1/coverage-provider-minting.md)
+  * [Coverage Seeker](user-guide-v-1.0.1/user-guide-v1/user-guide-1.md)
 
 ## Architecture
 
