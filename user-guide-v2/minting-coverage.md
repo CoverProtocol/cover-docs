@@ -3,7 +3,7 @@
 {% hint style="info" %}
 If you would like to become a **coverage provider** or **market maker** you will need to mint CLAIM and NOCLAIM tokens.   
   
-Per each protocol coverage you will only receive one NOCLAIM but can receive multiple CLAIM tokens.   
+Each protocol coverage you will only receive one NOCLAIM but can receive multiple CLAIM tokens.   
   
 You will also receive a FUTURE token which can be redeemable for any CLAIM token added for that specific protocol
 {% endhint %}
