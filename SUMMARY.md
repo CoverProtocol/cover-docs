@@ -28,10 +28,6 @@
 
 ## Collaboration
 
-* [Summary and Benefits](collaboration/summary-and-benefits.md)
-* [Adding a Protocol](collaboration/new.md)
-* [Sponsor a Reward Program](collaboration/bonus.md)
-
 ## Old Versions <a id="older-versions"></a>
 
 * [Version 1.0.1](older-versions/overview/README.md)
@@ -66,6 +62,10 @@
     * [Coverage Seeker](older-versions/version-v1/user-guide-v1/user-guide-1.md)
   * [Chinese Documents](https://app.gitbook.com/@mali2016le/s/cover/)
   * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
+* [Collaboration](older-versions/collaboration-1/README.md)
+  * [Sponsor a Reward Program](older-versions/collaboration-1/bonus.md)
+  * [Adding a Protocol](older-versions/collaboration-1/new.md)
+  * [Summary and Benefits](older-versions/collaboration-1/summary-and-benefits.md)
 
 ## Architecture
 
