@@ -12,7 +12,7 @@
 
 ## User Guide - v2
 
-* [Get Ropsten Token](user-guide-v2/get-ropsten.md)
+* [\(Testnet\) Get Ropsten Token](user-guide-v2/get-ropsten.md)
 * [Minting Coverage](user-guide-v2/minting-coverage.md)
 * [Selling Coverage](user-guide-v2/selling-coverage/README.md)
   * [Selling on Orderbooks](user-guide-v2/selling-coverage/selling-on-orderbooks.md)
