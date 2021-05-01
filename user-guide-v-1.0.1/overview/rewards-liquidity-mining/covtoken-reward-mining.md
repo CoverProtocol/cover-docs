@@ -11,5 +11,5 @@ Go to the [rewards mining](https://app.coverprotocol.com/app/rewards) tab.
 3. Enter the amount you would like to stake. Press “Confirm Deposit” in the COVER Protocol Staking Portal.
 4. Earn token rewards from the respective pool \(if applicable - for example, Badger token\).
 
-![](../../.gitbook/assets/screen-shot-2021-01-13-at-8.31.09-pm%20%281%29.jpg)
+![](../../../.gitbook/assets/screen-shot-2021-01-13-at-8.31.09-pm%20%281%29.jpg)
 

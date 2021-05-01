@@ -13,9 +13,9 @@
    3. For both of these you will need to approve the transaction, then submit the transaction \(2 separate tx\)
    4. Submit claim.
 
-![](../.gitbook/assets/screen-shot-2020-12-02-at-11.11.26-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-12-02-at-11.11.26-pm.png)
 
-![](../.gitbook/assets/screen-shot-2020-12-02-at-11.12.01-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-12-02-at-11.12.01-pm.png)
 
 ### Voting On A Claim
 
@@ -24,11 +24,11 @@
 3. If the community quorum is met and states its valid, the claim moves on to the CVC \(Auditor\) for the final decision.
 4. If the final decision of the community is invalid - it ends there.
 
-![](../.gitbook/assets/screen-shot-2020-12-02-at-11.13.47-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-12-02-at-11.13.47-pm.png)
 
 _**\***_**There will be a default 3 day grace period after expiry to make a claim on an incident that occured before the expiry of a specific coverage.**
 
 ###                                        Flowchart - Claims Management \(CM\)
 
-![](../.gitbook/assets/6.png)
+![](../../.gitbook/assets/6.png)
 

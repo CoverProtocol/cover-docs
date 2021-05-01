@@ -10,23 +10,34 @@
 * [Tokenomics](product/tokenomics.md)
 * [xCOVER](product/xcover.md)
 
+## User Guide - v2
+
+* [Get Ropsten Token](user-guide-v2/get-ropsten.md)
+* [Minting Coverage](user-guide-v2/minting-coverage.md)
+* [Selling Coverage](user-guide-v2/selling-coverage/README.md)
+  * [Selling on Orderbooks](user-guide-v2/selling-coverage/selling-on-orderbooks.md)
+* [Buying Coverage](user-guide-v2/buying-coverage/README.md)
+  * [Buying on Orderbooks](user-guide-v2/buying-coverage/buying-on-orderbooks.md)
+* [Redeeming](user-guide-v2/redeeming.md)
+
 ## User Guide - v 1.0.1
 
-* [Overview](user-guide-v-1.0.1/overview.md)
-* [Coverage Seeker](user-guide-v-1.0.1/coverage-seeker.md)
-* [Coverage Provider](user-guide-v-1.0.1/coverage-provider.md)
-* [Market Making](user-guide-v-1.0.1/market-making.md)
-* [Liquidity Providing](user-guide-v-1.0.1/liquidity-providing/README.md)
-  * [NOCLAIM Liquidity Provider \(LP\)](user-guide-v-1.0.1/liquidity-providing/noclaim-liquidity-provider-lp.md)
-  * [Liquidity Provider on SushiSwap.fi](user-guide-v-1.0.1/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
-* [Rewards/Liquidity Mining](user-guide-v-1.0.1/rewards-liquidity-mining/README.md)
-  * [CovToken Reward Mining](user-guide-v-1.0.1/rewards-liquidity-mining/covtoken-reward-mining.md)
-  * [COVER-ETH LP To Earn $SUSHI](user-guide-v-1.0.1/rewards-liquidity-mining/cover-eth-lp-to-earn-usdsushi.md)
-* [Claims Management](user-guide-v-1.0.1/claims-management.md)
-* [Redemption](user-guide-v-1.0.1/redemption/README.md)
-  * [Partial Payouts](user-guide-v-1.0.1/redemption/partial-payout-note.md)
-* [Claim \(new\) COVER](user-guide-v-1.0.1/claim-new-cover.md)
-* [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
+* [Version 1.0.1](user-guide-v-1.0.1/overview/README.md)
+  * [Claim \(new\) COVER](user-guide-v-1.0.1/overview/claim-new-cover.md)
+  * [Redemption](user-guide-v-1.0.1/overview/redemption/README.md)
+    * [Partial Payouts](user-guide-v-1.0.1/overview/redemption/partial-payout-note.md)
+  * [Claims Management](user-guide-v-1.0.1/overview/claims-management.md)
+  * [Rewards/Liquidity Mining](user-guide-v-1.0.1/overview/rewards-liquidity-mining/README.md)
+    * [CovToken Reward Mining](user-guide-v-1.0.1/overview/rewards-liquidity-mining/covtoken-reward-mining.md)
+    * [COVER-ETH LP To Earn $SUSHI](user-guide-v-1.0.1/overview/rewards-liquidity-mining/cover-eth-lp-to-earn-usdsushi.md)
+  * [Liquidity Providing](user-guide-v-1.0.1/overview/liquidity-providing/README.md)
+    * [NOCLAIM Liquidity Provider \(LP\)](user-guide-v-1.0.1/overview/liquidity-providing/noclaim-liquidity-provider-lp.md)
+    * [Liquidity Provider on SushiSwap.fi](user-guide-v-1.0.1/overview/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
+  * [Coverage Provider](user-guide-v-1.0.1/overview/coverage-provider.md)
+  * [Market Making](user-guide-v-1.0.1/overview/market-making.md)
+  * [Coverage Seeker](user-guide-v-1.0.1/overview/coverage-seeker.md)
+* [Version V1](user-guide-v-1.0.1/version-v1/README.md)
+  * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
 
 ## Collaboration
 

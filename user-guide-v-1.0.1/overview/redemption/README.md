@@ -10,7 +10,7 @@
 4. Choose the amount of collateral or funds you want back. _`example: if you have 15 NOCLAIM and 5 CLAIM tokens, you will only be able to redeem 5 DAI)`_
 5. Redeem.
 
-![](../../.gitbook/assets/screen-shot-2020-12-23-at-12.22.21-am.png)
+![](../../../.gitbook/assets/screen-shot-2020-12-23-at-12.22.21-am.png)
 
 Note: there is a claim accepted for the protocol token nonce which is the same as your tokens’, you will need to redeem CLAIM tokens from [Claims payout](https://app.coverprotocol.com/app/claim) and NOCLAIM tokens \(if payout is less than 100%\) in “Redeem”, under the [dashboard](https://app.coverprotocol.com/app/dashboard) tab under “My Cover”. There will be a **REDEEM** button.
 
@@ -24,5 +24,5 @@ Note: there is a claim accepted for the protocol token nonce which is the same a
 2. There will be a **REDEEM** button on which tokens you can redeem for your collateral.
 3. This is for expired/inactive tokens and accepted claims
 
-![](../../.gitbook/assets/screen-shot-2020-12-02-at-11.17.44-pm.png)
+![](../../../.gitbook/assets/screen-shot-2020-12-02-at-11.17.44-pm.png)
 

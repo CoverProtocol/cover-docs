@@ -29,15 +29,15 @@ You only need to provide liquidity to the NOCLAIM pool. You sell your CLAIM toke
 6. Click the trade button in the [dashboard](https://app.coverprotocol.com/app/dashboard) tab under “My Cover”. This will redirect you to [t](https://balancer.exchange/#/swap)he sell zap. Verify you received the token that has the correct expiration date, nonce, direction and active status. **This is where you will sell the CLAIM token to DAI \(if liquidity allows it\). Enter the amount of CLAIM token you would like to sell. Click Swap.** 
 7. For the CLAIM and NOCLAIM tokens to show up in your metamask wallet, add the specific addresses token address \(available on my cover page\) as a custom token.
 
-![](../.gitbook/assets/screen-shot-2021-02-21-at-10.53.28-pm.png)
+![](../../.gitbook/assets/screen-shot-2021-02-21-at-10.53.28-pm.png)
 
-![](../.gitbook/assets/screen-shot-2021-02-21-at-10.53.59-pm.png)
+![](../../.gitbook/assets/screen-shot-2021-02-21-at-10.53.59-pm.png)
 
-![](../.gitbook/assets/screen-shot-2021-02-21-at-10.48.23-pm%20%281%29.png)
+![](../../.gitbook/assets/screen-shot-2021-02-21-at-10.48.23-pm%20%281%29.png)
 
 ###                        Flowchart - Coverage Provider \(CP\)
 
-![](../.gitbook/assets/2.png)
+![](../../.gitbook/assets/2.png)
 
 
 

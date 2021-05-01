@@ -10,5 +10,5 @@ Go to the [shield mining](https://app.coverprotocol.com/app/shieldmining) tab.
 
 
 
-![](../../.gitbook/assets/screen-shot-2021-01-13-at-8.50.45-pm%20%281%29.png)
+![](../../../.gitbook/assets/screen-shot-2021-01-13-at-8.50.45-pm%20%281%29.png)
 

@@ -8,11 +8,11 @@
 6. Receive NOCLAIM Balancer Pool Token.
 7. To remove Liquidity you would press remove liquidity on the same page\*
 
-![](../../.gitbook/assets/screen-shot-2021-02-21-at-11.38.03-pm.png)
+![](../../../.gitbook/assets/screen-shot-2021-02-21-at-11.38.03-pm.png)
 
-![](../../.gitbook/assets/screen-shot-2020-12-02-at-11.01.03-pm.png)
+![](../../../.gitbook/assets/screen-shot-2020-12-02-at-11.01.03-pm.png)
 
-![](../../.gitbook/assets/screen-shot-2021-02-21-at-11.35.00-pm.png)
+![](../../../.gitbook/assets/screen-shot-2021-02-21-at-11.35.00-pm.png)
 
 
 

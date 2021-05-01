@@ -4,7 +4,7 @@ description: >-
   coverage tokens.
 ---
 
-# Overview
+# Version 1.0.1
 
 ### Introducing Unified Coverage Liquidity with Flash Swaps
 
