@@ -8,7 +8,6 @@
 * [Claims Guidelines V2](product/claims-guidelines-v2.md)
 * [CDS Claims Guidelines](product/cds-claims-guidelines.md)
 * [Tokenomics](product/tokenomics.md)
-* [xCOVER](product/xcover.md)
 
 ## Governance
 
@@ -25,6 +24,7 @@
   * [Buying Coverage](user-guide-v2/order-books/buying-on-orderbooks.md)
 * [Redeeming](user-guide-v2/redeeming.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
+* [xCOVER](user-guide-v2/xcover.md)
 
 ## Collaboration
 
