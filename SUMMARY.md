@@ -22,8 +22,8 @@
 * [Selling Coverage - Basic](user-guide-v2/selling-coverage.md)
 * [Buying Coverage - Basic](user-guide-v2/buying-coverage.md)
 * [Order Books: Advanced](user-guide-v2/order-books/README.md)
-  * [Selling Coverage](user-guide-v2/order-books/selling-on-orderbooks.md)
-  * [Buying Coverage](user-guide-v2/order-books/buying-on-orderbooks.md)
+  * [Selling Coverage - Order Book](user-guide-v2/order-books/selling-on-orderbooks.md)
+  * [Buying Coverage - Order Book](user-guide-v2/order-books/buying-on-orderbooks.md)
 * [Redeeming](user-guide-v2/redeeming.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
 
