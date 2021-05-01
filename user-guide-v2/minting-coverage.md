@@ -1,7 +1,7 @@
 # Minting Coverage
 
 {% hint style="info" %}
-If you would like to become a **coverage provider** or **market maker** you will need to **mint CLAIM and NOCLAIM tokens**.   
+If you would like to become a **coverage provider** or **market maker** you will need to **mint CLAIM, NOCLAIM and FUTURE tokens**.   
   
 Each protocol you mint coverage for you will only receive **one NOCLAIM token** but **can receive multiple CLAIM tokens**.   
   
