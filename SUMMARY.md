@@ -14,10 +14,11 @@
 
 * [\(Testnet\) Get Ropsten Token](user-guide-v2/get-ropsten.md)
 * [Minting Coverage](user-guide-v2/minting-coverage.md)
-* [Selling Coverage - Basic](user-guide-v2/selling-coverage/README.md)
-  * [Selling on Orderbooks](user-guide-v2/selling-coverage/selling-on-orderbooks.md)
-* [Buying Coverage](user-guide-v2/buying-coverage/README.md)
-  * [Buying on Orderbooks](user-guide-v2/buying-coverage/buying-on-orderbooks.md)
+* [Selling Coverage - Basic](user-guide-v2/selling-coverage.md)
+* [Buying Coverage - Basic](user-guide-v2/buying-coverage.md)
+* [Order-books](user-guide-v2/order-books/README.md)
+  * [Buying Coverage](user-guide-v2/order-books/buying-on-orderbooks.md)
+  * [Selling Coverage](user-guide-v2/order-books/selling-on-orderbooks.md)
 * [Redeeming](user-guide-v2/redeeming.md)
 
 ## Old Versions <a id="older-versions"></a>

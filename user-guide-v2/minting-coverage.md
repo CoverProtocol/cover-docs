@@ -44,7 +44,7 @@ _**Example: Here you have received 11 different CLAIM tokens for multiple Badger
 
 
 
-{% page-ref page="selling-coverage/" %}
+{% page-ref page="selling-coverage.md" %}
 
 
 
