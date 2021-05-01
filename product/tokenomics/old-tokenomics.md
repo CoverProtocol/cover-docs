@@ -1,11 +1,10 @@
-# Tokenomics
+# Old Tokenomics
 
-## COVER Token Allocation <a id="a7cc"></a>
+## **The following tokenomics are no longer in place. Please view this page for the current tokenomics** 
 
-The COVER token has a max supply of 70,200 tokens. Please see the breakdown: 
+{% page-ref page="./" %}
 
-* **~85% \(~59,400\)** allocated to COVER community members.
-* **~15% \(10,800\)** reserved for the team, vested through the year.
+
 
 ## \(OLD\) COVER to \(NEW\) COVER Migration <a id="8e70"></a>
 
@@ -32,4 +31,6 @@ Decided using our community polls:
 ## Notes on governance for tokenomics <a id="8702"></a>
 
 We are creating a **revolutionary product** that will have a lasting impact on DeFi and the crypto community. The new tokenomics are designed to ensure the **future success** of the protocol while also keeping **early supporters** in mind. Expect more news to come soon. We count on your continuous support as COVER moves forward.
+
+
 
