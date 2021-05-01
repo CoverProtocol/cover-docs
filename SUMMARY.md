@@ -20,23 +20,39 @@
   * [Buying on Orderbooks](user-guide-v2/buying-coverage/buying-on-orderbooks.md)
 * [Redeeming](user-guide-v2/redeeming.md)
 
-## User Guide - v 1.0.1
+## Old Versions <a id="older-versions"></a>
 
-* [Version 1.0.1](user-guide-v-1.0.1/overview/README.md)
-  * [Claim \(new\) COVER](user-guide-v-1.0.1/overview/claim-new-cover.md)
-  * [Redemption](user-guide-v-1.0.1/overview/redemption/README.md)
-    * [Partial Payouts](user-guide-v-1.0.1/overview/redemption/partial-payout-note.md)
-  * [Claims Management](user-guide-v-1.0.1/overview/claims-management.md)
-  * [Rewards/Liquidity Mining](user-guide-v-1.0.1/overview/rewards-liquidity-mining/README.md)
-    * [CovToken Reward Mining](user-guide-v-1.0.1/overview/rewards-liquidity-mining/covtoken-reward-mining.md)
-    * [COVER-ETH LP To Earn $SUSHI](user-guide-v-1.0.1/overview/rewards-liquidity-mining/cover-eth-lp-to-earn-usdsushi.md)
-  * [Liquidity Providing](user-guide-v-1.0.1/overview/liquidity-providing/README.md)
-    * [NOCLAIM Liquidity Provider \(LP\)](user-guide-v-1.0.1/overview/liquidity-providing/noclaim-liquidity-provider-lp.md)
-    * [Liquidity Provider on SushiSwap.fi](user-guide-v-1.0.1/overview/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
-  * [Coverage Provider](user-guide-v-1.0.1/overview/coverage-provider.md)
-  * [Market Making](user-guide-v-1.0.1/overview/market-making.md)
-  * [Coverage Seeker](user-guide-v-1.0.1/overview/coverage-seeker.md)
-* [Version V1](user-guide-v-1.0.1/version-v1/README.md)
+* [Version 1.0.1](older-versions/overview/README.md)
+  * [Claim \(new\) COVER](older-versions/overview/claim-new-cover.md)
+  * [Redemption](older-versions/overview/redemption/README.md)
+    * [Partial Payouts](older-versions/overview/redemption/partial-payout-note.md)
+  * [Claims Management](older-versions/overview/claims-management.md)
+  * [Rewards/Liquidity Mining](older-versions/overview/rewards-liquidity-mining/README.md)
+    * [CovToken Reward Mining](older-versions/overview/rewards-liquidity-mining/covtoken-reward-mining.md)
+    * [COVER-ETH LP To Earn $SUSHI](older-versions/overview/rewards-liquidity-mining/cover-eth-lp-to-earn-usdsushi.md)
+  * [Liquidity Providing](older-versions/overview/liquidity-providing/README.md)
+    * [NOCLAIM Liquidity Provider \(LP\)](older-versions/overview/liquidity-providing/noclaim-liquidity-provider-lp.md)
+    * [Liquidity Provider on SushiSwap.fi](older-versions/overview/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
+  * [Coverage Provider](older-versions/overview/coverage-provider.md)
+  * [Market Making](older-versions/overview/market-making.md)
+  * [Coverage Seeker](older-versions/overview/coverage-seeker.md)
+* [Version V1](older-versions/version-v1/README.md)
+  * [User Guide - Beta](older-versions/version-v1/user-guide-beta.md)
+  * [Shield Mining - Deprecated](older-versions/version-v1/shield-mining-weights.md)
+  * [Claims Guidelines](older-versions/version-v1/claims-guidelines.md)
+  * [Product Paper](older-versions/version-v1/paper.md)
+  * [User Guide - V1](older-versions/version-v1/user-guide-v1/README.md)
+    * [Rewards/Liquidity Mining](older-versions/version-v1/user-guide-v1/shield-mining/README.md)
+      * [CovToken Reward Mining](older-versions/version-v1/user-guide-v1/shield-mining/covtoken-shield-mining-to-earn-usdcover.md)
+      * [COVER-ETH LP To Earn $SUSHI](older-versions/version-v1/user-guide-v1/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
+    * [Liquidity Providing](older-versions/version-v1/user-guide-v1/liquidity-providing/README.md)
+      * [CLAIM Liquidity Provider \(LP\)](older-versions/version-v1/user-guide-v1/liquidity-providing/claim-liquidity-provider-lp.md)
+      * [NOCLAIM Liquidity Provider \(LP\)](older-versions/version-v1/user-guide-v1/liquidity-providing/noclaim-liquidity-provider-lp.md)
+      * [Liquidity Provider on SushiSwap.fi](older-versions/version-v1/user-guide-v1/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
+    * [Market Maker](older-versions/version-v1/user-guide-v1/market-maker-minting.md)
+    * [Coverage Provider](older-versions/version-v1/user-guide-v1/coverage-provider-minting.md)
+    * [Coverage Seeker](older-versions/version-v1/user-guide-v1/user-guide-1.md)
+  * [Chinese Documents](https://app.gitbook.com/@mali2016le/s/cover/)
   * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
 
 ## Collaboration
@@ -56,11 +72,6 @@
 ## Governance
 
 * [Proposals](governance/proposals.md)
-* [Shield Mining - Deprecated](governance/shield-mining-weights.md)
-
-## International
-
-* [Chinese Documents](https://app.gitbook.com/@mali2016le/s/cover/)
 
 ## Contact & Website Links <a id="website-links"></a>
 
@@ -70,21 +81,4 @@
 * [Snapshot \(Voting\)](https://vote.coverprotocol.com/#/)
 * [Logos](website-links/logos.md)
 * [Contact](website-links/contact.md)
-
-## Cover V1
-
-* [Product Paper](cover-v1/paper.md)
-* [Claims Guidelines](cover-v1/claims-guidelines.md)
-* [User Guide - V1](cover-v1/user-guide-v1/README.md)
-  * [Rewards/Liquidity Mining](cover-v1/user-guide-v1/shield-mining/README.md)
-    * [CovToken Reward Mining](cover-v1/user-guide-v1/shield-mining/covtoken-shield-mining-to-earn-usdcover.md)
-    * [COVER-ETH LP To Earn $SUSHI](cover-v1/user-guide-v1/shield-mining/pool-2-shield-mining-to-earn-usdcover.md)
-  * [Liquidity Providing](cover-v1/user-guide-v1/liquidity-providing/README.md)
-    * [CLAIM Liquidity Provider \(LP\)](cover-v1/user-guide-v1/liquidity-providing/claim-liquidity-provider-lp.md)
-    * [NOCLAIM Liquidity Provider \(LP\)](cover-v1/user-guide-v1/liquidity-providing/noclaim-liquidity-provider-lp.md)
-    * [Liquidity Provider on SushiSwap.fi](cover-v1/user-guide-v1/liquidity-providing/liquidity-provider-on-sushiswap.fi.md)
-  * [Market Maker](cover-v1/user-guide-v1/market-maker-minting.md)
-  * [Coverage Provider](cover-v1/user-guide-v1/coverage-provider-minting.md)
-  * [Coverage Seeker](cover-v1/user-guide-v1/user-guide-1.md)
-* [User Guide - Beta](cover-v1/user-guide-beta.md)
 
