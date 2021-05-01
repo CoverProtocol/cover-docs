@@ -28,8 +28,6 @@
   * [Partial Payouts Described](user-guide-v2/redeeming/partial-payouts-described.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
 
-## Collaboration
-
 ## Old Versions <a id="older-versions"></a>
 
 * [Version 1.0.1](older-versions/overview/README.md)
