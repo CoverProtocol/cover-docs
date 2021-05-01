@@ -16,7 +16,7 @@ When selling on the order books, the seller only pays gas if canceling an order!
 
 ## Step 2: Approve the tokens. 
 
-![](../../.gitbook/assets/screen-shot-2021-05-01-at-1.44.14-pm.png)
+![](../../.gitbook/assets/screen-shot-2021-05-01-at-1.44.14-pm%20%281%29.png)
 
 ## Step 3: \(1\) Enter the amount of DAI you would like to receive per token \(2\) Enter the number of tokens you would like to sell. \(2\) Set the amount of time you would like the order to be good for. 
 

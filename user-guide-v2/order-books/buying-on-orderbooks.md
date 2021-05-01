@@ -16,15 +16,15 @@ When buying on the order books, you are responsible for paying the gas to execut
 
 ## Step 2: Approve the tokens. 
 
-![](../../.gitbook/assets/screen-shot-2021-04-30-at-11.26.36-pm.png)
+![](../../.gitbook/assets/screen-shot-2021-05-01-at-1.44.14-pm.png)
 
 ## Step 3: \(1\) Enter the amount DAI you are willing to pay per CLAIM token \(2\) Enter the amount of coverage you would like to buy. \(2\) Set the amount of time you would like the order to be good for. 
 
-![](../../.gitbook/assets/screen-shot-2021-05-01-at-12.12.13-am.png)
+![](../../.gitbook/assets/screen-shot-2021-05-01-at-1.45.52-pm.png)
 
 ## Step 4: \(1\) Click "Place Buy Order". \(2\) Sign the transaction - this does not cost any money. You only pay money if the order goes through.
 
-![](../../.gitbook/assets/screen-shot-2021-05-01-at-12.17.04-am.png)
+![](../../.gitbook/assets/screen-shot-2021-05-01-at-1.47.21-pm.png)
 
 
 
