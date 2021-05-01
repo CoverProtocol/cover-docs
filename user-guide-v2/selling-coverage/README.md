@@ -1,4 +1,4 @@
-# Selling Coverage
+# Selling Coverage - Basic
 
 ## **Step 1: Go to your dashboard. This will show all the covTokens you own.** 
 
