@@ -1,13 +1,13 @@
 # Selling Coverage
 
-**The website to access the order-books is located here:** [**https://coverrules.com/**](https://coverrules.com/)\*\*\*\*
+**The website to access the order books is located here:** [**https://coverrules.com/**](https://coverrules.com/)\*\*\*\*
 
 {% hint style="info" %}
-Selling on the order-book allows you to set the amount of coverage you would sell, at the rate you want. Place the sell order and let it get filled. This can be done with CLAIM and NOCLAIM tokens. 
+Selling on the order book allows you to set the amount of coverage you would sell, at the rate you want. Place the sell order and let it get filled. This can be done with CLAIM and NOCLAIM tokens. 
 {% endhint %}
 
 {% hint style="success" %}
-When selling on the order-books, the seller only pays gas if canceling an order! The buyer pays the gas for taking an order!
+When selling on the order books, the seller only pays gas if canceling an order! The buyer pays the gas for taking an order!
 {% endhint %}
 
 ##  Step 1: \(1\) Select the app. \(2\) Select the protocol. \(3\) Select the token you would like to sell. 
@@ -28,7 +28,7 @@ When selling on the order-books, the seller only pays gas if canceling an order!
 
 
 
-## You will see your order appear on the order book. Once the order is filled you will receive the DAI and no longer have the token. You can cancel your order at anytime before its filled. 
+## You will see your order appear on the order book. Once the order is filled you will receive the DAI and no longer have the token. You can cancel your order at any time before its filled. 
 
 ![](../../.gitbook/assets/screen-shot-2021-05-01-at-12.21.49-am.png)
 
