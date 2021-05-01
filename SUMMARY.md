@@ -20,6 +20,7 @@
   * [Selling Coverage](user-guide-v2/order-books/selling-on-orderbooks.md)
   * [Buying Coverage](user-guide-v2/order-books/buying-on-orderbooks.md)
 * [Redeeming](user-guide-v2/redeeming.md)
+* [Claims/Filing](user-guide-v2/claims-filing.md)
 
 ## Old Versions <a id="older-versions"></a>
 
