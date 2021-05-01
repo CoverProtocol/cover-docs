@@ -31,7 +31,6 @@
 
 ## Old Versions <a id="older-versions"></a>
 
-* [Depracted](older-versions/depracted.md)
 * [Version 1.0.1](older-versions/overview/README.md)
   * [Claim \(new\) COVER](older-versions/overview/claim-new-cover.md)
   * [Redemption](older-versions/overview/redemption/README.md)
