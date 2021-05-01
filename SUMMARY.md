@@ -10,6 +10,10 @@
 * [Tokenomics](product/tokenomics.md)
 * [xCOVER](product/xcover.md)
 
+## Governance
+
+* [Proposals/Snapshot](governance/proposals.md)
+
 ## User Guide - v2
 
 * [\(Testnet\) Get Ropsten Token](user-guide-v2/get-ropsten.md)
@@ -70,10 +74,6 @@
 * [Smart Contract Audits](architecture/smart-contract-audits.md)
 * [Mainnet Contracts](architecture/mainnet.md)
 * [Kovan Contracts](architecture/kovan.md)
-
-## Governance
-
-* [Proposals](governance/proposals.md)
 
 ## Contact & Website Links <a id="website-links"></a>
 
