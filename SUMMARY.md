@@ -25,8 +25,8 @@
   * [Selling Coverage - Order Book](user-guide-v2/order-books/selling-on-orderbooks.md)
   * [Buying Coverage - Order Book](user-guide-v2/order-books/buying-on-orderbooks.md)
 * [Redeeming](user-guide-v2/redeeming/README.md)
+  * [Unwrap](user-guide-v2/redeeming/unwrap.md)
   * [Partial Payouts Described](user-guide-v2/redeeming/partial-payouts-described.md)
-* [Unwrap](user-guide-v2/unwrap.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
 
 ## Old Versions <a id="older-versions"></a>
