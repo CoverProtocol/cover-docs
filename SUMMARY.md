@@ -26,6 +26,12 @@
 * [Redeeming](user-guide-v2/redeeming.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
 
+## Collaboration
+
+* [Summary and Benefits](collaboration/summary-and-benefits.md)
+* [Adding a Protocol](collaboration/new.md)
+* [Sponsor a Reward Program](collaboration/bonus.md)
+
 ## Old Versions <a id="older-versions"></a>
 
 * [Version 1.0.1](older-versions/overview/README.md)
@@ -60,12 +66,6 @@
     * [Coverage Seeker](older-versions/version-v1/user-guide-v1/user-guide-1.md)
   * [Chinese Documents](https://app.gitbook.com/@mali2016le/s/cover/)
   * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
-
-## Collaboration
-
-* [Summary and Benefits](collaboration/summary-and-benefits.md)
-* [Adding a Protocol](collaboration/new.md)
-* [Sponsor a Reward Program](collaboration/bonus.md)
 
 ## Architecture
 
