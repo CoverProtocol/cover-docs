@@ -63,7 +63,7 @@
     * [Coverage Seeker](older-versions/version-v1/user-guide-v1/user-guide-1.md)
   * [Chinese Documents](https://app.gitbook.com/@mali2016le/s/cover/)
   * [Youtube Tutorials](https://www.youtube.com/channel/UCaLmVcY57t1IFjiU2rXCfiQ)
-* [Collaboration](older-versions/collaboration-1/README.md)
+* [Collaborations](older-versions/collaboration-1/README.md)
   * [Sponsor a Reward Program](older-versions/collaboration-1/bonus.md)
   * [Adding a Protocol](older-versions/collaboration-1/new.md)
   * [Summary and Benefits](older-versions/collaboration-1/summary-and-benefits.md)
