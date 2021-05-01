@@ -1,4 +1,0 @@
-# Redeeming
-
-**UNDER CONSTRUCTION...**
-

@@ -1,4 +1,4 @@
-# Partial Payouts
+# Partial Payouts Described
 
 If a claim is accepted with a 100% payout ratio, then the NOCLAIM token will be worth $0 while the CLAIM will be redeemable for 1 collateral. 
 
