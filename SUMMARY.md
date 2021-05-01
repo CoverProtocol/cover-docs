@@ -12,7 +12,7 @@
 
 ## Governance
 
-* [Proposals/Snapshot](governance/proposals.md)
+* [Forum/Proposals/Snapshot](governance/proposals.md)
 
 ## User Guide - v2
 

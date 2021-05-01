@@ -23,5 +23,7 @@ There is no set schedule in terms of when does the buy back happen. However, the
 3. Staking COVER, you receive a portion of the platform fees via buybacks of COVER
 4. Un-staking will withdraw your initial COVER staked + any rewards/fees back to your wallet
 
+![](../.gitbook/assets/screen-shot-2021-05-01-at-12.29.25-am.png)
 
+![](../.gitbook/assets/screen-shot-2021-05-01-at-12.30.33-am.png)
 

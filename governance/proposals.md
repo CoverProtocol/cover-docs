@@ -2,7 +2,7 @@
 description: Governance through CIPs
 ---
 
-# Proposals/Snapshot
+# Forum/Proposals/Snapshot
 
 **First**, any community member can make a proposal \(**CIP**\) \(**C**over Protocol **I**mprovement **P**lan\) by creating a new topic on [`forum.coverprotocol.com`](https://forum.coverprotocol.com/c/proposals-cips), following the format [here](https://forum.coverprotocol.com/t/proposal-cip-outline/71). The proposal will be discussed and voted on prior to being uploaded to Snapshot.
 
