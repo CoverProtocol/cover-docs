@@ -30,8 +30,6 @@ When selling on the order books, the seller only pays gas if canceling an order!
 
 ## You will see your order appear on the order book. Once the order is filled you will receive the DAI and no longer have the token. You can cancel your order at any time before its filled. 
 
-![](../../.gitbook/assets/screen-shot-2021-05-01-at-12.21.49-am.png)
-
 
 
 
