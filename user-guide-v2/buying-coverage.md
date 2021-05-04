@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/screen-shot-2021-04-28-at-10.17.50-pm.png)
 
-## Step 3: Click the "Trade" button on the left hand side under the coverage you would like to purchase. 
+## Step 3: Click the "Trade" button on the right-hand side under the coverage you would like to purchase. 
 
 ![](../.gitbook/assets/screen-shot-2021-04-30-at-11.49.04-pm.png)
 
