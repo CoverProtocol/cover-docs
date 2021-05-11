@@ -19,5 +19,5 @@ A claim is valid when:
 
 * the collectible payments are lower than the expected collectible amount due to defaults. 1 rcToken should equal $1 at collection time. 
 
-**Example:** You lent on wBTC. You received 100 rcTokens. Those 100 rcTokens only collect $95 worth of repayment DAI and defaulted collateral at the due date. The Credit Default Swap would cover you for the $5 difference, if there is not a partial payout. 
+**Example:** You lent on wBTC. You received 100 rcTokens. Those 100 rcTokens only collect $95 worth of repayment DAI and defaulted collateral at the due date. The Credit Default Swap would cover you for the $5 difference, if there is was not a partial payout. 
 
