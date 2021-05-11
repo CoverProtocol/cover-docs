@@ -49,7 +49,7 @@ The **coverage period** for a given covToken includes any time before the expira
 
 **Economic Manipulation Attack** is an attack in which funds are lost due to changes in economic inputs to the smart contract or **smart contract system** where the changes in the inputs were due to manipulation with the intent to exploit the contract or system, not due to regular market forces; i.e flash loan attacks.
 
-**De-pegging:** The stablecoin in question is off-peg by 10% or more \(90 cents or below\) at expiration. 
+**De-pegging:** The stablecoin in question is off-peg by 10% or more \(90 cents or below\) at expiration. This claim will be filed by the Cover Protocol team. 
 
 **Loss of deposited funds** means the total deposited funds lost caused by the hack not the loss of the individual coverage purchaser.
 
