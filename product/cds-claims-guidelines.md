@@ -18,5 +18,7 @@ During the coverage period, lenders on protocols will now have the option of hed
   
 A claim is valid when:
 
-* the collectible payments are lower than the expected collectible amount due to defaults
+* the collectible payments are lower than the expected collectible amount due to defaults.
+
+**Example:** You lent on wBTC. You received 100 rcTokens. Those 100 rcTokens only collect $95 worth of repayment DAI and defaulted collateral. The Credit Default Swap would cover you for the $5. 
 
