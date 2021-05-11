@@ -8,14 +8,15 @@ The CDS Claims guide describes which events are covered and not covered by Cover
   
 All coverage is provided on a discretionary basis, with Claims Validity Committee \(CVC\), having the final say on which claims are valid and the final payout amount to CLAIM token holders minus protocol fees \(if the claim is successful\).
 
-* There will be a default 3 day grace period after expiry to make a claim on an incident that occured before the expiry of a specific coverage. 
-* When no claim is accepted there will be a default 10 day delay for redemption of NOCLAIM tokens. 
-* When a claim is accepted there will be a default 3 day delay for CLAIM tokens \(and NOCLAIM tokens if partial payout\).
+* There will be a default 3 day grace period after expiry to make a claim on an incident that occurred before the expiry of specific coverage. 
+* When no claim is accepted there will be a default 10-day delay for the redemption of NOCLAIM tokens. 
+* When a claim is accepted there will be a default 3-day delay for CLAIM tokens \(and NOCLAIM tokens if partial payout\).
 
 **Valid Claim Guidelines**   
-During the coverage period, lenders on protocols will now have the option of hedging the default risk from the borrower side.  
+During the coverage period, lenders on protocols will now have the option of hedging the default risk from the borrower side. Claims are handled per risk. If there are multiple defaults, there will be a partial payout based on the total loss of lenders of that pair.
+
   
 A claim is valid when:
 
-* the collectable payments are lower than the expected collectable amount due to defaults
+* the collectible payments are lower than the expected collectible amount due to defaults
 

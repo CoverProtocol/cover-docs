@@ -17,7 +17,6 @@
 
 ## User Guide - v2
 
-* [\(Testnet\) Get Ropsten Token](user-guide-v2/get-ropsten.md)
 * [Minting Coverage](user-guide-v2/minting-coverage.md)
 * [Selling Coverage - Basic](user-guide-v2/selling-coverage.md)
 * [Buying Coverage - Basic](user-guide-v2/buying-coverage.md)
@@ -28,6 +27,7 @@
   * [Unwrap](user-guide-v2/redeeming/unwrap.md)
   * [Partial Payouts Described](user-guide-v2/redeeming/partial-payouts-described.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
+* [\(Testnet\) Get Ropsten Token](user-guide-v2/get-ropsten.md)
 
 ## Old Versions <a id="older-versions"></a>
 
