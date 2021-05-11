@@ -2,7 +2,7 @@
 description: Guide to obtain Rospten tokens for testing Cover V2
 ---
 
-# \(Testnet\) Get Ropsten Token
+# \(v2 Testnet\) Get Ropsten Token
 
 ## **Connect Ropsten Metamask**
 

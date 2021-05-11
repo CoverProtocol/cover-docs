@@ -23,7 +23,6 @@
   * [Unwrap](user-guide-v2/redeeming/unwrap.md)
   * [Partial Payouts Described](user-guide-v2/redeeming/partial-payouts-described.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
-* [\(Testnet\) Get Ropsten Token](user-guide-v2/get-ropsten.md)
 
 ## Governance
 
@@ -31,6 +30,7 @@
 
 ## Old Versions <a id="older-versions"></a>
 
+* [\(v2 Testnet\) Get Ropsten Token](older-versions/get-ropsten.md)
 * [Version 1.0.1](older-versions/v1-0-1/README.md)
   * [Claim \(new\) COVER](older-versions/v1-0-1/claim-new-cover.md)
   * [Redemption](older-versions/v1-0-1/redemption/README.md)
