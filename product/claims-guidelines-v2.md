@@ -17,7 +17,7 @@ The Claims guide describes which events are covered and not covered by Cover Pro
 
 ### **Valid Claim Guidelines**
 
-During the **coverage period**, the designated smart contract or smart contract system suffers a hack, bug, exploit, **economic manipulation attack**; de-pegging or freeze of a specific stable coin; or the developers and or/signatories behind the smart contract or smart contract system commit fraud or theft of user ****funds.
+During the **coverage period**, the designated smart contract or smart contract system suffers a hack, bug, exploit, **economic manipulation attack**; **de-pegging** of a specific stable coin; or the developers and or/signatories behind the smart contract or smart contract system commit fraud or theft of user ****funds.
 
 * and there is a **material loss of deposited funds** from the smart contract, or **smart contract system** with funds either moved to another address which the original owner or owners do not control or the funds are made permanently irrecoverable;
 * and the coverage purchaser submits a claim within 3 days of the incident.
@@ -48,6 +48,8 @@ When there has been a successful claim passed on a specific covered protocol rel
 The **coverage period** for a given covToken includes any time before the expiration timestamp parameter of the related Cover smart contract.
 
 **Economic Manipulation Attack** is an attack in which funds are lost due to changes in economic inputs to the smart contract or **smart contract system** where the changes in the inputs were due to manipulation with the intent to exploit the contract or system, not due to regular market forces; i.e flash loan attacks.
+
+**De-pegging:** The stablecoin in question is off-peg by 10% or more \(90 cents or below\) at expiration. 
 
 **Loss of deposited funds** means the total deposited funds lost caused by the hack not the loss of the individual coverage purchaser.
 
