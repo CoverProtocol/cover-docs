@@ -21,7 +21,7 @@ During the **coverage period**, the designated smart contract or smart contract 
 
 * and there is a **material loss of deposited funds** from the smart contract, or **smart contract system** with funds either moved to another address which the original owner or owners do not control or the funds are made permanently irrecoverable;
 * and the coverage purchaser submits a claim within 3 days of the incident.
-* **Coverage will be expanded to the underlying strategy projects. For example, if the Yearn DAI vault is invested in Curve, and Curve gets hacked and causes loss on the Dai vault, you will be covered.**
+* Coverage will be expanded to the underlying strategy projects. For example, if the Yearn DAI vault is invested in Curve, and Curve gets hacked and causes loss on the Dai vault, you will be covered.
 
 ### Partial Payouts
 
