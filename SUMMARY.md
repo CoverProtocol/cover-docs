@@ -29,6 +29,15 @@
 
 * [Forum/Proposals/Snapshot](governance/proposals.md)
 
+## Contact & Website Links <a id="website-links"></a>
+
+* [Cover Protocol Website](https://coverprotocol.com/)
+* [Cover Protocol App](https://app.coverprotocol.com/)
+* [Governance Forum](https://forum.coverprotocol.com)
+* [Snapshot \(Voting\)](https://vote.coverprotocol.com/#/)
+* [Logos](website-links/logos.md)
+* [Contact](website-links/contact.md)
+
 ## Old Versions <a id="older-versions"></a>
 
 * [\(v2 Testnet\) Get Ropsten Token](older-versions/get-ropsten.md)
@@ -76,13 +85,4 @@
 * [Smart Contract Audits](architecture/smart-contract-audits.md)
 * [Mainnet Contracts](architecture/mainnet.md)
 * [Kovan Contracts](architecture/kovan.md)
-
-## Contact & Website Links <a id="website-links"></a>
-
-* [Cover Protocol Website](https://coverprotocol.com/)
-* [Cover Protocol App](https://app.coverprotocol.com/)
-* [Governance Forum](https://forum.coverprotocol.com)
-* [Snapshot \(Voting\)](https://vote.coverprotocol.com/#/)
-* [Logos](website-links/logos.md)
-* [Contact](website-links/contact.md)
 
