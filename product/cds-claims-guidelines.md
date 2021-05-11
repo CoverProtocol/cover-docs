@@ -1,4 +1,4 @@
-# CDS Claims Guidelines
+# CDS Claims Guidelines V2
 
 {% hint style="info" %}
 **All CDS claims will be forced filed and be sent directly to the CVC.**

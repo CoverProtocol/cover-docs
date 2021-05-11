@@ -6,7 +6,7 @@
 
 * [Product Paper V2](product/paperv2.md)
 * [Claims Guidelines V2](product/claims-guidelines-v2.md)
-* [CDS Claims Guidelines](product/cds-claims-guidelines.md)
+* [CDS Claims Guidelines V2](product/cds-claims-guidelines.md)
 * [Tokenomics](product/tokenomics/README.md)
   * [Old Tokenomics](product/tokenomics/old-tokenomics.md)
 * [xCOVER](product/xcover.md)
