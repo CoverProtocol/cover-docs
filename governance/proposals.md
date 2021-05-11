@@ -10,3 +10,17 @@ description: Governance through CIPs
 
 **Third**, after the snapshot vote has concluded, the team will wait 48 hours before executing the decision.
 
+
+
+
+
+### Proposal outline: [https://forum.coverprotocol.com/t/proposal-cip-outline/71](https://forum.coverprotocol.com/t/proposal-cip-outline/71)
+
+### Forum: [https://forum.coverprotocol.com/c/proposals-cips](https://forum.coverprotocol.com/c/proposals-cips)
+
+### Voting/Snapshot: [https://vote.coverprotocol.com/\#/](https://vote.coverprotocol.com/#/)
+
+
+
+
+
