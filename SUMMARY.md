@@ -10,6 +10,7 @@
 * [Tokenomics](product/tokenomics/README.md)
   * [Old Tokenomics](product/tokenomics/old-tokenomics.md)
 * [xCOVER](product/xcover.md)
+* [V2 Audits](https://github.com/CoverProtocol/cover-security/tree/master/audits)
 
 ## User Guide - v2
 
