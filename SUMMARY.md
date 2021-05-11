@@ -11,10 +11,6 @@
   * [Old Tokenomics](product/tokenomics/old-tokenomics.md)
 * [xCOVER](product/xcover.md)
 
-## Governance
-
-* [Forum/Proposals/Snapshot](governance/proposals.md)
-
 ## User Guide - v2
 
 * [Minting Coverage](user-guide-v2/minting-coverage.md)
@@ -28,6 +24,10 @@
   * [Partial Payouts Described](user-guide-v2/redeeming/partial-payouts-described.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
 * [\(Testnet\) Get Ropsten Token](user-guide-v2/get-ropsten.md)
+
+## Governance
+
+* [Forum/Proposals/Snapshot](governance/proposals.md)
 
 ## Old Versions <a id="older-versions"></a>
 
