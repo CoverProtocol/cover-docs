@@ -21,6 +21,7 @@ During the **coverage period**, the designated smart contract or smart contract 
 
 * and there is a **material loss of deposited funds** from the smart contract, or **smart contract system** with funds either moved to another address which the original owner or owners do not control or the funds are made permanently irrecoverable;
 * and the coverage purchaser submits a claim within 3 days of the incident.
+* **The coverage will be expanded to the underlying strategy projects. For example, if the Yearn DAI vault is invested in Curve, and Curve gets hacked and causes loss on the Dai vault, you will be covered.**
 
 ### Partial Payouts
 
@@ -36,7 +37,6 @@ For example: If _**MYPROTOCOL**_ gets exploited for $1 million while the total v
 
 * any claims if the smart contract or **smart contract system** was deployed primarily for the purpose of claiming on the coverage and not for real usage;
 * for any hacks occurring during the **coverage period** if a hack occurred or a public bug disclosure was made for the designated smart contract address or **smart contract system** before the **coverage period** began;
-* Most mainstream Ethereum applications are complex and consist of a number of smart contracts all working together. The intention is for each covToken to cover just one protocol _**\(i.e. if your money is in yearn.finance and the strategy is deployed to curve.fi ; you will not be covered if funds are hacked/stolen/or lost on curve.fi\)**_
 * _Loss of rewards or incentives yet to be distributed to a user\(s\) wallet address._
 
 ### **Coverage Expiration**
