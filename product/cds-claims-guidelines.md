@@ -13,8 +13,7 @@ All coverage is provided on a discretionary basis, with Claims Validity Committe
 * When a claim is accepted there will be a default 3-day delay for CLAIM tokens \(and NOCLAIM tokens if partial payout\).
 
 **Valid Claim Guidelines**   
-During the coverage period, lenders on protocols will now have the option of hedging the default risk from the borrower side. Claims are handled per risk. If there are multiple defaults, there will be a partial payout based on the total loss of lenders of that pair.
-
+During the coverage period, lenders on protocols will now have the option of hedging the default risk from the borrower side. Claims are handled per risk. If there are multiple defaults, there will be a partial payout based on the total loss of lenders of that pair.  
   
 A claim is valid when:
 
