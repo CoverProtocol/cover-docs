@@ -24,6 +24,7 @@
   * [Unwrap](user-guide-v2/redeeming/unwrap.md)
   * [Partial Payouts Described](user-guide-v2/redeeming/partial-payouts-described.md)
 * [Claims/Filing](user-guide-v2/claims-filing.md)
+* [Fees](user-guide-v2/fees.md)
 
 ## Governance
 
