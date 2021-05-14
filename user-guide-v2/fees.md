@@ -8,3 +8,7 @@ $$
 .6Percent/ 12 Months = .05PercentPerMonth
 $$
 
+$$
+.05Percent *3Months=.15Percent
+$$
+
