@@ -29,7 +29,7 @@
 ## Community
 
 * [Forum/Proposals/Snapshot](community/proposals.md)
-* [📺 Twitch Live Streams/AMA](community/twitch-live-streams-ama.md)
+* [Twitch Live Streams/AMA](community/twitch-live-streams-ama.md)
 
 ## Contact & Website Links <a id="website-links"></a>
 

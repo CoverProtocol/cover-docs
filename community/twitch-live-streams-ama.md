@@ -1,4 +1,4 @@
-# 📺 Twitch Live Streams/AMA
+# Twitch Live Streams/AMA
 
 \*\*\*\*[**DeFi Ted**](https://twitter.com/DeFi_Ted) **will be hosting educational live streams which include tips, tricks, and tutorials. These include an AMA at the end of each live stream!** 
 
