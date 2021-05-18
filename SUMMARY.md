@@ -26,9 +26,10 @@
 * [Claims/Filing](user-guide-v2/claims-filing.md)
 * [Fees](user-guide-v2/fees.md)
 
-## Governance
+## Community
 
-* [Forum/Proposals/Snapshot](governance/proposals.md)
+* [Forum/Proposals/Snapshot](community/proposals.md)
+* [📺 Twitch Live Streams/AMA](community/twitch-live-streams-ama.md)
 
 ## Contact & Website Links <a id="website-links"></a>
 
