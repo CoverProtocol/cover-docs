@@ -8,5 +8,7 @@ Tune in below!**
 
 {% embed url="https://www.twitch.tv/defi\_ted" %}
 
-
+{% hint style="info" %}
+You can also re-watch past live streams in case you miss them!
+{% endhint %}
 
