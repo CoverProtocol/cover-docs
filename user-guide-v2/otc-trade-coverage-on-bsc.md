@@ -36,7 +36,7 @@ description: >-
 
 ![](https://lh4.googleusercontent.com/eAytetp8JdyRGKj-tVe9D_upa80GZiY3UDOQQmkLmlrwZ2lZuxHbAlEdBSVDEcFvQPjglOOemenyv_8QfmgEpzAKBnWRBWJWUumKD-Jr7wWLUuTOG7XfdVP50YmoupLerQy7fU2p)
 
-**Step 9:** Once “Approved” enter the amount of coverage tokens you want to trade and click “Contribute”. Now share the link to deal with the person you would like to trade with or in the [otc](https://discord.gg/jA8naYza) channel of Cover Discord.
+**Step 9:** Once “Approved” enter the amount of coverage tokens you want to trade and click “Contribute”. Now share the link to the deal with the person you would like to trade with or in the [otc](https://discord.gg/jA8naYza) channel of Cover Discord.
 
 ![](../.gitbook/assets/screen-shot-2021-05-20-at-12.11.31-pm.png)
 
