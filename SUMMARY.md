@@ -17,6 +17,7 @@
 * [Minting Coverage](user-guide-v2/minting-coverage.md)
 * [Selling Coverage - Basic](user-guide-v2/selling-coverage.md)
 * [Buying Coverage - Basic](user-guide-v2/buying-coverage.md)
+* [OTC Trade Coverage on BSC](user-guide-v2/otc-trade-coverage-on-bsc.md)
 * [Order Books: Advanced](user-guide-v2/order-books/README.md)
   * [Selling Coverage - Order Book](user-guide-v2/order-books/selling-on-orderbooks.md)
   * [Buying Coverage - Order Book](user-guide-v2/order-books/buying-on-orderbooks.md)
