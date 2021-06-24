@@ -3,7 +3,7 @@
 **The website to access the order books is located here:** [**https://coverrules.com/**](https://coverrules.com/)\*\*\*\*
 
 {% hint style="info" %}
-Buying on the order book allows you to set the amount of coverage you would like to buy at the rate you want. Place the sell order and let it get filled. This can be done with CLAIM and NOCLAIM tokens. 
+Buying on the order book allows you to set the amount of coverage you would like to buy at the rate you want. Place the buy order and let it get filled. This can be done with CLAIM and NOCLAIM tokens. 
 {% endhint %}
 
 {% hint style="warning" %}
