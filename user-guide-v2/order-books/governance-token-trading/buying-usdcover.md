@@ -5,7 +5,7 @@
 [**https://coverrules.com/?application=governance&protocol=COVER**](https://coverrules.com/?application=governance&protocol=COVER)\*\*\*\*
 
 {% hint style="info" %}
-Buying on the order book allows you to set the amount of tokens you would like to buy at the price you desire. Place the buy order and let it get filled. 
+Buying on the order book allows you to set the amount of tokens you would like to buy at the price you desire with no slippage. Place the buy order and let it get filled. 
 {% endhint %}
 
 {% hint style="warning" %}

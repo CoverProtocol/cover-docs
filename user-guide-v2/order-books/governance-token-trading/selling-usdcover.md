@@ -5,7 +5,7 @@
 [**https://coverrules.com/?application=governance&protocol=COVER**](https://coverrules.com/?application=governance&protocol=COVER)\*\*\*\*
 
 {% hint style="info" %}
-Selling on the order book allows you to set the amount of tokens you would sell, at the price you want. Place the sell order and let it get filled. 
+Selling on the order book allows you to set the amount of tokens you would sell, at the price you want with no slippage. Place the sell order and let it get filled. 
 {% endhint %}
 
 {% hint style="success" %}
@@ -20,7 +20,7 @@ When selling on the order books, the seller only pays gas if canceling an order!
 
 ![](../../../.gitbook/assets/screen-shot-2021-06-24-at-1.48.45-pm.png)
 
-## Step 3: \(1\) Click "Place Sell Order". \(2\) Confirm the transaction \(3\) Sign the transaction - this does not cost any money. You only pay money to cancel and order.
+## Step 3: \(1\) Click "Place Sell Order". \(2\) Confirm the transaction \(3\) Sign the transaction - this does not cost any money. You only pay money to cancel the order.
 
 ![1 - Confirm](../../../.gitbook/assets/screen-shot-2021-06-24-at-1.49.39-pm.png)
 
