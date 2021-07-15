@@ -18,6 +18,7 @@
 * [Order Books: Buy/Sell Coverage](user-guide-v2/order-books/README.md)
   * [Buying Coverage - Order Book](user-guide-v2/order-books/buying-on-orderbooks.md)
   * [Selling Coverage - Order Book](user-guide-v2/order-books/selling-on-orderbooks.md)
+  * [Rewards](user-guide-v2/order-books/rewards.md)
   * [Governance Token - Trading](user-guide-v2/order-books/governance-token-trading/README.md)
     * [Buying $COVER](user-guide-v2/order-books/governance-token-trading/buying-usdcover.md)
     * [Selling $COVER](user-guide-v2/order-books/governance-token-trading/selling-usdcover.md)
