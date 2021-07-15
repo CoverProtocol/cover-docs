@@ -16,3 +16,5 @@ As you move further away from the market price the rewards diminish.
 
 ![](../../.gitbook/assets/codecogseqn.png)
 
+The multiplier used to multiply it by the order size and that will then become the weight for your position.
+
