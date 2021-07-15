@@ -16,7 +16,3 @@ As you move further away from the market price the rewards diminish.
 
 ![](../../.gitbook/assets/codecogseqn.png)
 
-```text
-Multiplier = Min(\log \frac{1}{ Min(\frac{Distance From MP}{MP},1)},10 )
-```
-
