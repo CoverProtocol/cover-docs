@@ -2,7 +2,7 @@
 
 ### **Order Book Rewards Info**
 
-Rewards are distributed to people utilizing the order book system. In order to receive rewards you can place sell orders in the specified pairs. 
+Rewards are distributed to people utilizing the order book system. In order to receive rewards you can place sell orders in the participating pairs. 
 
 The difference between the price of your order and the market price, as well as the amount of your order, determines the amount of rewards you get. 
 
