@@ -16,7 +16,16 @@ As you move further away from the market price the rewards diminish.
 
 ![](../.gitbook/assets/codecogseqn.png)
 
-The multiplier is used to multiply it by the order size and that will then become the weight for your position.
+The multiplier is used to multiply it by the order size and that will then become the weight for your position.  
+
+
+{% hint style="info" %}
+CoverRules / 0x notices:
+
+* **Orders smaller than 250 tokens are not eligible to receive rewards**
+* Users placing multiple orders that are larger than their token balance will only be rewarded for either their token balance or the total value of an order placed for a given token, whichever is smaller
+* Users placing orders directly through the API and avoiding Coverrules' order matching do not gain any advantage over regular orders, and increase the risk of their orders being filled
+{% endhint %}
 
 ## Current Mining Program <a id="3f9c"></a>
 
